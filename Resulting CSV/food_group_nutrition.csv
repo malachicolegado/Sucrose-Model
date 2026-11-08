@@ -1,0 +1,185 @@
+code,column,name,kcal_100g,carb_100g,sugar_100g,fiber_100g,net_carb_100g,sat_fat_100g
+111,Milk_111,Milk,52.46,4.85,4.88,0.0,4.85,1.3
+112,Evaporated_or_condensed_milk_112,Evaporated or condensed milk,173.04,19.91,19.91,0.0,19.91,4.62
+113,Almond_or_soy_milk_113,Almond or soy milk,28.58,3.77,2.94,0.2,3.57,0.2
+114,Yogurt_114,Yogurt,85.7,12.11,10.73,0.21,11.9,1.04
+115,Chocolate_milk_115,Chocolate milk,81.23,12.38,10.06,0.51,11.87,1.33
+118,Cocoa_or_milk_powder_mix_118,Cocoa or milk powder mix,380.94,78.32,67.31,4.74,73.58,2.32
+121,Cream_121,Cream,154.28,4.76,4.42,0.0,4.76,8.62
+123,Sour_cream_and_dips_123,Sour cream and dips,296.73,4.48,2.97,0.11,4.37,9.76
+131,Ice_cream_131,Ice cream,226.86,28.01,22.62,0.85,27.16,6.72
+132,Pudding_132,Pudding,132.57,21.08,15.5,0.25,20.83,1.67
+134,White_sauce_or_gravy_134,White sauce or gravy,140.45,9.19,4.61,0.15,9.04,4.97
+140,Cheese_unspecified_140,Cheese unspecified,367.46,5.0,2.69,0.0,5.0,16.69
+141,Natural_cheese_141,Natural cheese,361.14,3.09,0.9,0.0,3.09,16.57
+142,Cottage_cheese_142,Cottage cheese,96.6,4.17,3.44,0.03,4.14,1.86
+143,Cream_cheese_143,Cream cheese,325.17,6.89,5.05,0.0,6.89,18.08
+144,American_cheese_144,American cheese,299.89,8.77,6.26,0.0,8.77,12.77
+145,Imitation_cheese_145,Imitation cheese,390.46,1.0,1.0,0.0,1.0,5.81
+146,Cheese_dip_and_grilled_cheese_146,Cheese dip and grilled cheese,296.35,22.23,3.23,1.6,20.62,7.8
+147,Cheese_soup_147,Cheese soup,66.61,8.12,4.31,1.08,7.04,1.81
+200,Meat_unspecified_200,Meat unspecified,210.8,0.0,0.0,0.0,0.0,3.71
+210,Beef_unspecified_cut_210,Beef unspecified cut,192.23,0.0,0.0,0.0,0.0,3.13
+211,Beef_steak_211,Beef steak,204.13,0.9,0.06,0.04,0.86,3.63
+213,Beef_ribs_and_oxtail_213,Beef ribs and oxtail,346.82,2.26,1.84,0.05,2.21,10.6
+214,Roast_beef_214,Roast beef,215.29,0.05,0.0,0.0,0.05,4.33
+215,Ground_beef_215,Ground beef,268.24,0.0,0.0,0.0,0.0,6.8
+216,Beef_jerky_and_beef_bacon_216,Beef jerky and beef bacon,413.54,9.97,8.05,1.58,8.39,11.1
+220,Pork_unspecified_cut_220,Pork unspecified cut,216.31,0.53,0.3,0.07,0.46,3.51
+221,Pork_chop_221,Pork chop,206.18,3.35,0.29,0.2,3.15,2.53
+222,Pork_steak_or_tenderloin_222,Pork steak or tenderloin,200.31,1.4,0.12,0.07,1.33,3.53
+223,Ham_223,Ham,151.23,1.26,1.03,0.01,1.26,2.15
+224,Pork_roast_224,Pork roast,222.6,0.05,0.0,0.0,0.05,4.29
+226,Bacon_226,Bacon,473.09,1.68,0.0,0.0,1.68,12.14
+227,Pork_ribs_and_rinds_227,Pork ribs and rinds,330.83,1.86,1.47,0.04,1.82,7.52
+230,Lamb_230,Lamb,291.48,0.0,0.0,0.0,0.0,8.76
+231,Lamb_chop_and_goat_231,Lamb chop and goat,233.19,0.0,0.0,0.0,0.0,5.32
+232,Veal_232,Veal,200.75,2.19,0.13,0.06,2.13,2.39
+233,Venison_and_bison_233,Venison and bison,189.78,1.33,0.96,0.02,1.31,2.74
+241,Chicken_and_chicken_nuggets_241,Chicken and chicken nuggets,231.74,7.25,1.11,0.39,6.86,2.87
+242,Turkey_242,Turkey,180.93,0.68,0.47,0.01,0.67,2.0
+243,Duck_243,Duck,323.52,0.0,0.0,0.0,0.0,9.12
+244,Game_hen_and_quail_244,Game hen and quail,197.95,0.0,0.0,0.0,0.0,3.09
+251,Organ_meats_251,Organ meats,173.2,2.16,0.0,0.02,2.14,2.95
+252,Deli_meats_and_sausages_252,Deli meats and sausages,215.28,2.13,0.74,0.0,2.12,5.2
+261,Fish_261,Fish,181.73,4.22,0.37,0.25,3.97,1.68
+262,Squid_and_octopus_262,Squid and octopus,202.16,9.03,0.49,0.35,8.68,1.55
+263,Shrimp_263,Shrimp,173.69,8.5,0.45,0.48,8.02,1.47
+271,Meat_and_poultry_in_sauce_271,Meat and poultry in sauce,150.48,9.05,4.33,1.0,8.05,1.93
+272,Meat_loaf_and_meat_with_rice_272,Meat loaf and meat with rice,156.36,11.11,1.11,0.55,10.56,2.16
+273,Stews_and_pot_pies_273,Stews and pot pies,129.57,12.43,1.41,1.23,11.2,1.52
+274,Chicken_salad_and_meat_with_vegetables_274,Chicken salad and meat with vegetables,144.61,5.04,2.22,1.03,4.02,1.89
+275,Burgers_and_sandwiches_275,Burgers and sandwiches,261.74,20.86,3.42,1.1,19.75,4.79
+281,Frozen_meat_dinners_281,Frozen meat dinners,140.8,13.68,3.17,1.18,12.5,1.98
+283,Meat_and_vegetable_soups_283,Meat and vegetable soups,58.99,5.03,1.27,0.63,4.39,0.7
+285,Gravy_and_savory_sauces_285,Gravy and savory sauces,53.99,5.65,0.86,0.4,5.26,1.09
+311,Eggs_boiled_or_fried_311,Eggs boiled or fried,165.9,0.72,0.37,0.0,0.72,3.71
+312,Duck_or_quail_eggs_312,Duck or quail eggs,219.38,1.3,0.84,0.0,1.3,4.96
+321,Scrambled_eggs_and_omelets_321,Scrambled eggs and omelets,180.85,1.04,0.54,0.05,0.99,4.48
+322,Egg_breakfast_sandwiches_322,Egg breakfast sandwiches,278.98,21.19,3.03,0.72,20.47,5.86
+323,Egg_soup_323,Egg soup,28.04,4.31,0.11,0.4,3.92,0.18
+324,Egg_white_omelet_324,Egg white omelet,99.44,1.47,1.18,0.11,1.37,1.64
+330,Egg_substitute_330,Egg substitute,90.85,1.89,1.88,0.0,1.89,1.47
+334,Egg_substitute_dishes_334,Egg substitute dishes,122.4,2.22,1.84,0.1,2.11,3.03
+411,Beans_411,Beans,172.15,23.32,0.54,8.03,15.29,0.8
+412,Baked_beans_refried_beans_and_hummus_412,Baked beans refried beans and hummus,133.3,18.84,4.61,4.92,13.92,0.85
+413,Lentils_and_chickpeas_413,Lentils and chickpeas,137.77,17.3,2.71,4.97,12.32,1.01
+414,Soy_sauce_and_tofu_414,Soy sauce and tofu,77.18,5.81,2.78,0.84,4.97,0.67
+416,Bean_and_lentil_soup_416,Bean and lentil soup,62.15,8.31,1.26,2.45,5.86,0.33
+418,Meatless_burgers_and_bacon_bits_418,Meatless burgers and bacon bits,170.12,10.96,1.22,3.62,7.33,1.5
+421,Nuts_421,Nuts,598.39,22.07,5.59,7.96,14.11,7.12
+422,Peanut_butter_422,Peanut butter,551.37,21.73,10.21,4.68,17.05,9.16
+423,Peanut_butter_sandwich_423,Peanut butter sandwich,360.77,42.5,12.94,3.78,38.72,3.37
+424,Coconut_water_and_milk_424,Coconut water and milk,24.29,4.95,4.6,0.03,4.91,0.36
+425,Trail_mix_425,Trail mix,478.97,48.86,32.1,6.29,42.57,5.09
+431,Seeds_431,Seeds,569.35,23.4,2.75,13.14,10.26,5.53
+510,Bread_unspecified_510,Bread unspecified,278.11,50.63,5.54,2.06,48.57,0.92
+511,White_bread_and_rolls_511,White bread and rolls,303.65,49.8,7.78,2.23,47.58,2.43
+513,Wheat_bread_513,Wheat bread,272.95,47.11,4.79,5.9,41.21,1.18
+514,Rye_bread_514,Rye bread,264.49,49.34,3.77,5.96,43.38,0.62
+515,Oat_bread_515,Oat bread,280.45,51.02,8.33,4.19,46.83,0.66
+516,Multigrain_bread_516,Multigrain bread,272.33,45.82,6.78,7.14,38.68,0.81
+518,Gluten_free_bread_518,Gluten free bread,239.57,44.55,3.91,4.32,40.23,0.8
+521,Biscuits_521,Biscuits,358.35,44.22,5.05,2.46,41.77,10.29
+522,Tortillas_and_cornbread_522,Tortillas and cornbread,267.92,45.95,3.71,4.91,41.04,1.92
+523,Muffins_523,Muffins,359.37,51.47,28.65,1.57,49.9,3.22
+524,Sweet_quick_breads_524,Sweet quick breads,343.89,46.2,23.81,1.43,44.77,2.6
+531,Cakes_and_cupcakes_531,Cakes and cupcakes,366.39,51.03,35.82,1.26,49.76,5.32
+532,Cookies_and_brownies_532,Cookies and brownies,463.26,66.64,33.67,2.19,64.45,7.29
+533,Pies_533,Pies,272.28,36.88,18.17,1.53,35.35,4.28
+534,Pastries_and_fritters_534,Pastries and fritters,283.34,38.69,18.09,1.52,37.18,3.64
+535,Doughnuts_and_breakfast_tarts_535,Doughnuts and breakfast tarts,407.02,55.29,25.79,1.99,53.3,7.45
+536,Coffee_cake_536,Coffee cake,344.72,50.67,30.23,1.42,49.26,6.19
+537,Cereal_and_granola_bars_537,Cereal and granola bars,424.09,61.99,29.82,5.43,56.56,3.68
+540,Crackers_unspecified_540,Crackers unspecified,510.69,61.31,8.19,2.23,59.08,5.56
+541,Graham_crackers_541,Graham crackers,431.81,74.73,24.66,4.8,69.93,2.55
+542,Low_sodium_crackers_542,Low sodium crackers,425.11,71.97,1.5,5.57,66.4,2.44
+543,Crackers_543,Crackers,469.92,63.99,5.78,3.23,60.75,4.12
+544,Corn_chips_and_pretzels_544,Corn chips and pretzels,489.46,62.7,3.56,5.12,57.58,5.54
+551,Pancakes_551,Pancakes,272.1,35.34,7.22,2.17,33.17,2.78
+552,Waffles_552,Waffles,334.9,44.86,6.02,2.7,42.16,3.08
+553,French_toast_553,French toast,274.3,34.98,10.49,1.46,33.52,3.03
+555,Chinese_pancake_555,Chinese pancake,207.33,45.38,0.07,0.69,44.69,0.1
+556,Dumplings_556,Dumplings,123.99,20.25,1.23,0.67,19.58,0.94
+557,Rice_cakes_and_dosa_557,Rice cakes and dosa,168.17,31.25,2.63,3.95,27.3,0.53
+558,Funnel_cake_558,Funnel cake,349.63,43.14,15.9,0.98,42.16,3.1
+561,Pasta_and_noodles_561,Pasta and noodles,153.28,29.67,0.43,1.77,27.9,0.27
+562,Rice_and_oatmeal_562,Rice and oatmeal,107.63,21.05,1.28,1.03,20.02,0.39
+570,Oat_cereal_570,Oat cereal,371.91,73.22,4.5,10.07,63.14,1.6
+571,Low_sugar_breakfast_cereal_571,Low sugar breakfast cereal,383.81,81.38,26.08,5.75,75.62,1.45
+572,Medium_sugar_breakfast_cereal_572,Medium sugar breakfast cereal,386.13,81.22,27.3,7.39,73.83,1.22
+573,High_sugar_breakfast_cereal_573,High sugar breakfast cereal,366.08,82.31,30.56,6.46,75.84,0.82
+574,Other_breakfast_cereal_574,Other breakfast cereal,362.34,82.29,16.5,9.18,73.11,0.49
+576,Raw_oats_and_bran_576,Raw oats and bran,303.74,66.22,0.72,25.24,40.98,0.89
+581,Pizza_and_pasta_dishes_581,Pizza and pasta dishes,201.23,22.31,2.37,1.86,20.46,3.4
+583,Frozen_meals_583,Frozen meals,174.79,19.24,4.37,1.12,18.12,2.42
+584,Noodle_soups_584,Noodle soups,60.13,7.77,0.52,0.49,7.29,0.85
+590,Grain_based_meat_substitute_590,Grain based meat substitute,334.25,61.86,0.49,9.04,52.82,1.04
+611,Citrus_fruit_611,Citrus fruit,47.58,11.98,9.45,2.14,9.84,0.02
+612,Citrus_juice_612,Citrus juice,47.15,11.19,8.22,0.29,10.9,0.02
+621,Dried_fruit_621,Dried fruit,307.79,76.15,62.34,5.42,70.72,1.96
+631,Fresh_fruit_631,Fresh fruit,62.92,15.45,10.64,2.01,13.43,0.11
+632,Berries_632,Berries,44.0,10.76,7.07,2.41,8.35,0.02
+633,Fruit_salad_and_cocktail_633,Fruit salad and cocktail,53.37,13.77,12.15,1.12,12.65,0.04
+634,Guacamole_634,Guacamole,143.54,17.21,10.99,3.65,13.56,1.5
+641,Fruit_juice_641,Fruit juice,49.86,12.07,10.2,0.35,11.73,0.03
+642,Fruit_nectar_642,Fruit nectar,51.12,13.18,12.33,0.38,12.8,0.02
+644,Vinegar_644,Vinegar,20.75,0.93,0.4,0.0,0.93,0.0
+710,Potato_unspecified_710,Potato unspecified,124.88,20.45,1.61,1.43,19.02,1.2
+711,Baked_or_boiled_potato_711,Baked or boiled potato,106.05,20.79,1.49,1.69,19.1,0.57
+712,Potato_chips_712,Potato chips,512.2,56.32,2.67,3.79,52.53,4.26
+713,Scalloped_potatoes_713,Scalloped potatoes,174.27,13.29,2.12,0.76,12.53,5.72
+714,French_fries_and_hash_browns_714,French fries and hash browns,270.7,33.67,0.49,3.12,30.54,2.22
+715,Mashed_potatoes_715,Mashed potatoes,120.16,16.72,1.54,1.37,15.35,2.56
+716,Potato_salad_716,Potato salad,156.02,16.17,2.81,1.29,14.89,1.52
+717,Stewed_potatoes_717,Stewed potatoes,116.4,17.87,1.97,1.57,16.31,0.65
+718,Potato_soup_718,Potato soup,58.36,7.83,1.86,0.74,7.09,1.01
+719,Plantain_and_cassava_719,Plantain and cassava,152.28,32.34,12.88,2.06,30.28,0.59
+721,Leafy_greens_721,Leafy greens,37.82,4.16,0.62,2.65,1.5,0.48
+722,Broccoli_722,Broccoli,51.73,6.49,1.61,2.71,3.79,0.68
+723,Green_vegetable_soup_723,Green vegetable soup,67.19,5.73,2.08,0.97,4.76,1.03
+731,Carrots_731,Carrots,48.11,9.44,4.64,2.61,6.83,0.27
+732,Pumpkin_732,Pumpkin,51.26,6.77,2.87,0.52,6.26,0.83
+733,Winter_squash_733,Winter squash,55.13,8.86,3.32,2.6,6.26,0.63
+734,Sweet_potato_734,Sweet potato,123.76,22.57,9.21,2.9,19.68,0.91
+735,Squash_soup_735,Squash soup,38.5,4.37,1.77,1.29,3.08,1.48
+741,Raw_tomatoes_741,Raw tomatoes,17.95,3.89,2.63,1.2,2.69,0.03
+742,Cooked_tomatoes_742,Cooked tomatoes,67.25,6.8,3.17,1.55,5.24,1.08
+743,Tomato_juice_743,Tomato juice,21.12,3.86,2.82,0.5,3.36,0.07
+745,Tomato_salad_745,Tomato salad,102.49,6.19,4.77,0.58,5.61,1.14
+746,Tomato_soup_746,Tomato soup,42.3,8.54,3.91,0.56,7.97,0.2
+751,Salad_vegetables_751,Salad vegetables,34.63,5.12,2.75,1.39,3.74,0.25
+752,Cooked_vegetables_752,Cooked vegetables,58.48,8.49,3.14,2.25,6.23,0.71
+753,Mixed_vegetables_753,Mixed vegetables,67.2,9.55,3.03,3.05,6.5,0.66
+754,Onion_rings_and_vegetable_dishes_754,Onion rings and vegetable dishes,148.6,15.53,2.82,1.94,13.59,2.05
+756,Vegetable_soup_756,Vegetable soup,50.02,6.08,1.35,0.94,5.14,0.44
+772,Plantain_fritters_772,Plantain fritters,358.03,26.63,13.58,1.7,24.93,5.31
+775,Spanish_stew_775,Spanish stew,82.08,8.04,1.74,1.63,6.4,0.91
+781,Smoothies_and_vegetable_juice_781,Smoothies and vegetable juice,63.04,12.7,8.26,1.33,11.37,0.22
+811,Butter_and_margarine_811,Butter and margarine,648.18,0.35,0.03,0.0,0.35,35.44
+812,Ghee_and_animal_fat_812,Ghee and animal fat,875.33,0.0,0.0,0.0,0.0,61.47
+813,Tartar_sauce_and_spreads_813,Tartar sauce and spreads,381.01,8.88,4.7,0.59,8.29,11.78
+821,Cooking_oils_821,Cooking oils,879.42,0.09,0.0,0.0,0.09,21.15
+831,Mayonnaise_and_dressings_831,Mayonnaise and dressings,464.0,6.96,5.97,0.17,6.79,7.43
+832,Light_dressings_832,Light dressings,144.3,11.49,8.9,0.17,11.31,1.51
+833,Fat_free_dressings_833,Fat free dressings,88.59,17.11,7.0,0.3,16.81,0.39
+913,Syrup_and_honey_913,Syrup and honey,277.07,68.0,49.8,0.32,67.69,1.35
+914,Jam_and_jelly_914,Jam and jelly,250.82,64.51,47.19,1.08,63.43,0.01
+915,Gelatin_dessert_915,Gelatin dessert,59.98,12.69,11.12,0.11,12.59,0.64
+916,Popsicles_and_ices_916,Popsicles and ices,85.81,21.0,16.32,0.0,21.0,0.01
+917,Candy_917,Candy,444.58,75.77,56.31,1.7,74.07,7.61
+918,Chewing_gum_918,Chewing gum,333.33,96.29,50.32,2.19,94.1,0.05
+923,Tea_923,Tea,15.92,3.85,3.45,0.01,3.84,0.01
+924,Soft_drinks_924,Soft drinks,33.19,8.32,7.92,0.0,8.32,0.0
+925,Fruit_drinks_925,Fruit drinks,31.24,7.95,7.35,0.03,7.92,0.01
+926,Horchata_and_grain_drinks_926,Horchata and grain drinks,86.51,18.93,10.96,0.41,18.52,0.39
+928,Nonalcoholic_malt_drinks_928,Nonalcoholic malt drinks,38.4,8.53,8.39,0.0,8.52,0.02
+929,Drink_mixes_929,Drink mixes,370.14,97.23,91.04,0.0,97.23,0.17
+931,Beer_931,Beer,40.61,2.63,0.19,0.0,2.63,0.0
+932,Liqueur_932,Liqueur,368.64,41.95,41.38,0.0,41.95,0.02
+933,Cocktails_933,Cocktails,99.11,8.87,8.36,0.04,8.83,0.12
+934,Wine_934,Wine,84.1,3.61,1.87,0.0,3.61,0.0
+935,Liquor_935,Liquor,228.39,0.16,0.15,0.0,0.16,0.0
+951,Nutrition_shakes_951,Nutrition shakes,97.51,13.01,6.77,0.75,12.26,0.42
+952,Protein_powder_952,Protein powder,372.45,21.57,11.55,2.52,19.06,0.63
+953,Sports_and_energy_drinks_953,Sports and energy drinks,27.54,6.72,5.74,0.0,6.72,0.0

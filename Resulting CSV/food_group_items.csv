@@ -1,0 +1,965 @@
+group,code,name,people,kcal_100g,carb_100g,sugar_100g,fiber_100g,net_carb_100g,sat_fat_100g
+111,11112110,"Milk, reduced fat (2%)",301,50.01,4.91,4.89,0.0,4.91,1.11
+111,11111000,"Milk, whole",289,59.99,4.67,4.81,0.0,4.67,1.86
+111,11112210,"Milk, low fat (1%)",90,43.01,5.19,4.96,0.0,5.19,0.57
+111,11113000,"Milk, fat free (skim)",52,33.99,4.89,5.05,0.0,4.89,0.05
+111,11100000,"Milk, NFS",20,50.54,4.87,4.89,0.0,4.87,1.16
+111,11114300,"Milk, lactose free, low fat (1%)",5,43.03,5.19,4.96,0.0,5.19,0.57
+111,11114350,"Milk, lactose free, whole",5,60.01,4.67,4.81,0.0,4.67,1.86
+112,11210050,"Milk, evaporated, NS as to fat content",5,134.04,10.04,10.04,0.0,10.04,4.59
+113,11350020,"Almond milk, unsweetened",48,14.98,1.31,0.81,0.2,1.12,0.08
+113,11350000,"Almond milk, sweetened",28,29.83,5.24,4.77,0.19,5.05,0.08
+113,11320000,Soy milk,13,43.02,4.92,3.65,0.2,4.73,0.2
+113,11370000,Coconut milk,7,31.04,2.92,2.5,0.0,2.92,2.08
+114,11432000,"Yogurt, low fat milk, fruit",40,88.79,14.46,12.01,0.12,14.33,0.88
+114,11433000,"Yogurt, nonfat milk, fruit",22,82.49,15.02,12.58,0.12,14.9,0.1
+114,11434020,"Yogurt, Greek, nonfat milk, fruit",21,83.08,12.2,11.5,0.6,11.6,0.1
+114,11460000,"Frozen yogurt, vanilla",17,126.95,21.6,19.92,0.0,21.6,2.33
+114,11411100,"Yogurt, whole milk, plain",15,61.03,4.66,4.66,0.0,4.66,2.1
+114,11431000,"Yogurt, whole milk, fruit",14,87.08,12.36,9.92,0.14,12.23,1.85
+114,11411200,"Yogurt, low fat milk, plain",11,62.99,7.04,7.04,0.0,7.04,1.0
+114,11411420,"Yogurt, Greek, nonfat milk, plain",10,60.96,3.64,3.27,0.0,3.64,0.11
+114,11430000,"Yogurt, NS as to type of milk, fruit",9,88.84,14.46,12.01,0.13,14.33,0.88
+114,11433990,"Yogurt, Greek, NS as to type of milk, fruit",8,105.23,12.29,11.23,1.0,11.29,1.6
+114,11435030,"Yogurt, Greek, nonfat milk, flavors other than fruit",8,78.02,10.37,9.54,0.51,9.86,0.13
+114,11436000,"Yogurt, liquid",8,71.82,11.81,9.78,0.11,11.71,0.7
+114,11435010,"Yogurt, Greek, whole milk, flavors other than fruit",7,110.66,9.35,9.35,0.0,9.35,2.67
+114,11411300,"Yogurt, nonfat milk, plain",5,56.01,7.68,7.68,0.0,7.68,0.12
+114,11434000,"Yogurt, Greek, whole milk, fruit",5,105.96,12.29,12.0,0.0,12.29,1.6
+115,11553110,"Fruit smoothie, with whole fruit and dairy",19,62.88,11.66,8.23,1.19,10.47,0.57
+115,11514100,"Hot chocolate / Cocoa, made with dry mix and water",17,54.18,11.4,8.93,0.5,10.9,0.32
+115,11542100,"Milk shake, fast food, chocolate",13,149.61,20.36,13.39,1.62,18.74,4.04
+115,11542200,"Milk shake, fast food, flavors other than chocolate",13,147.96,19.59,13.63,0.9,18.69,3.96
+115,11553120,"Fruit smoothie, with whole fruit and dairy, added protein",13,77.44,9.71,7.14,1.1,8.6,0.65
+115,11511200,"Chocolate milk, ready to drink, reduced fat",8,75.95,12.13,9.55,0.71,11.42,1.18
+115,11511550,"Chocolate milk, ready to drink, reduced sugar, NS as to milk",8,57.0,7.68,7.29,0.0,7.68,0.62
+115,11531000,Eggnog,7,88.02,8.05,8.05,0.0,8.05,2.59
+115,11511100,"Chocolate milk, ready to drink, whole",6,83.02,10.34,9.54,0.8,9.54,2.1
+115,11512010,"Hot chocolate / Cocoa, ready to drink",6,90.86,16.54,15.18,0.0,16.54,0.9
+115,11541120,"Milk shake, home recipe, flavors other than chocolate",6,112.32,11.41,10.65,0.25,11.16,3.62
+115,11553130,"Fruit smoothie juice drink, with dairy",6,65.01,15.05,12.68,0.9,14.15,0.0
+115,11551050,Licuado or Batido,5,71.16,13.1,10.86,0.74,12.36,0.76
+118,11830160,"Chocolate beverage powder, dry mix, not reconstituted",6,399.17,90.29,81.84,4.63,85.66,2.27
+121,12120100,"Cream, half and half",123,131.32,4.31,4.13,0.0,4.31,7.03
+121,12140000,"Cream, whipped",29,344.66,8.6,8.55,0.0,8.6,21.67
+121,12100100,"Cream, NS as to light, heavy, or half and half",10,131.27,4.31,4.13,0.0,4.31,7.03
+121,12120106,"Cream, half and half, flavored",8,129.19,4.51,4.34,0.0,4.51,6.89
+121,12120110,"Cream, half and half, fat free",7,59.73,9.0,5.0,0.0,9.0,0.84
+121,12130100,"Cream, heavy",5,340.0,2.84,2.93,0.0,2.84,23.03
+123,12310100,"Sour cream, regular",70,197.99,4.64,3.41,0.0,4.64,10.14
+123,12350230,"Ranch dip, regular",21,433.24,3.49,2.48,0.23,3.26,10.65
+123,12350220,"Onion dip, regular",8,346.55,3.57,2.65,0.13,3.44,8.52
+123,12310350,"Sour cream, light",7,136.01,7.11,0.22,0.0,7.11,6.6
+123,12350250,"Vegetable dip, regular",6,429.4,3.13,2.05,0.25,2.88,10.62
+131,13110100,"Ice cream, vanilla",103,207.01,23.6,21.22,0.69,22.91,6.79
+131,13110102,"Ice cream, vanilla, with additional ingredients",73,241.71,30.51,25.33,1.03,29.48,6.97
+131,13110110,"Ice cream, chocolate",27,216.05,28.2,25.36,1.19,27.01,6.8
+131,13120790,"Ice cream cone, vanilla, prepackaged",23,353.77,34.38,25.0,1.04,33.33,11.46
+131,13120100,"Ice cream bar, vanilla, chocolate coated",18,330.82,24.51,18.31,0.8,23.7,13.2
+131,13120500,"Ice cream sandwich, vanilla",14,263.93,35.88,25.28,1.34,34.54,6.15
+131,13130300,"Light ice cream, vanilla",13,174.56,25.44,14.29,0.15,25.29,3.49
+131,13110112,"Ice cream, chocolate, with additional ingredients",12,249.3,34.39,28.83,1.45,32.94,6.98
+131,13121300,"Ice cream sundae, hot fudge topping",10,242.53,31.92,23.89,1.15,30.77,6.58
+131,13130700,"Soft serve, blended with candy or cookies, from fast food",8,175.56,26.19,22.78,0.15,26.03,3.19
+131,13120140,"Ice cream bar, chocolate",7,329.28,25.17,17.97,1.47,23.7,13.1
+131,13120782,"Ice cream cone, soft serve, vanilla",7,189.6,31.44,21.47,0.4,31.04,2.86
+131,13120730,"Ice cream cone, scooped, vanilla",6,215.2,25.82,20.61,0.8,25.02,6.57
+131,13120735,"Ice cream cone, scooped, vanilla, waffle cone",6,218.43,27.16,21.48,0.75,26.42,6.42
+131,13150000,"Sherbet, all flavors",6,144.04,30.4,24.32,1.3,29.1,1.16
+132,13210300,Custard,8,94.61,10.96,10.93,0.0,10.96,1.56
+132,13210410,"Pudding, rice",8,108.07,18.39,11.59,0.3,18.09,1.21
+132,13230130,"Pudding, chocolate, ready-to-eat",6,142.04,23.01,17.17,0.0,23.01,1.26
+132,13230110,"Pudding, flavors other than chocolate, ready-to-eat",5,130.04,22.6,16.97,0.0,22.6,1.02
+134,13411000,White sauce or gravy,10,140.46,9.19,4.61,0.15,9.04,4.97
+140,14010000,"Cheese, NFS",167,367.4,5.0,2.69,0.0,5.0,16.69
+141,14104100,"Cheese, Cheddar",148,408.29,2.44,0.33,0.0,2.44,19.2
+141,14108010,"Cheese, Parmesan, dry grated",56,420.32,12.42,0.05,0.0,12.42,15.5
+141,14107030,"Cheese, Mozzarella, part skim",46,297.13,4.44,1.81,0.0,4.44,11.7
+141,14109010,"Cheese, Swiss",44,393.66,1.44,0.0,0.0,1.44,18.2
+141,14106200,"Cheese, Monterey",35,372.52,0.68,0.51,0.0,0.68,19.07
+141,14104250,"Cheese, Colby Jack",32,383.75,1.63,0.51,0.0,1.63,19.64
+141,14107010,"Cheese, Mozzarella, NFS",31,297.74,4.44,1.81,0.0,4.44,11.7
+141,14108400,"Cheese, Provolone",31,351.47,2.14,0.57,0.0,2.14,17.08
+141,14133000,Queso Fresco,29,299.0,2.98,2.32,0.0,2.98,12.94
+141,14108020,"Cheese, Parmesan, hard",24,420.03,12.41,0.06,0.0,12.41,15.5
+141,14104400,"Cheese, Feta",21,264.99,3.88,0.0,0.0,3.88,13.3
+141,14120010,"Cheese, Mexican blend",14,357.92,1.75,1.23,0.0,1.75,17.03
+141,14101010,"Cheese, Blue or Roquefort",12,353.21,2.34,0.5,0.0,2.34,18.67
+141,14105010,"Cheese, Gouda or Edam",12,355.79,2.22,2.22,0.0,2.22,17.61
+141,14104110,"Cheese, Cheddar, reduced fat",11,315.14,2.67,0.26,0.0,2.67,12.6
+142,14201010,"Cheese, cottage, creamed, large or small curd",17,98.06,3.38,2.67,0.0,3.38,1.72
+142,14204010,"Cheese, cottage, low fat",13,84.04,4.31,4.1,0.0,4.31,1.26
+142,14200100,"Cheese, cottage, NFS",11,83.83,4.31,4.1,0.0,4.31,1.26
+142,14201500,"Cheese, Ricotta",5,147.51,6.0,0.29,0.0,6.0,5.95
+143,14301010,"Cream cheese, regular, plain",38,350.92,5.53,3.76,0.0,5.53,20.21
+143,14301100,"Cream cheese, regular, flavored",14,218.46,16.4,14.32,0.0,16.4,8.24
+143,14303010,"Cream cheese, light",6,201.06,8.13,5.82,0.0,8.13,9.1
+144,14410110,"Cheese, American",178,306.14,8.86,6.24,0.0,8.86,12.93
+144,14410120,"Cheese, American, reduced fat",11,239.7,10.6,8.02,0.0,10.6,8.85
+144,14420100,"Cheese spread, American or Cheddar cheese base",6,289.93,8.73,7.32,0.0,8.73,13.33
+144,14420200,"Cheese spread, cream cheese, regular",6,295.55,3.5,3.5,0.0,3.5,18.02
+145,14502000,Imitation cheese,5,390.56,1.0,1.0,0.0,1.0,5.81
+146,14660200,"Mozzarella sticks, breaded, baked, or fried",17,325.03,25.14,2.36,2.0,23.14,6.85
+146,14620200,Cheese dip,16,160.0,7.66,0.29,0.27,7.4,3.1
+146,14640105,"Grilled cheese sandwich, American cheese, on white bread",13,330.85,28.7,5.03,1.2,27.5,9.45
+146,14650100,Cheese sauce,11,160.06,7.66,0.29,0.26,7.4,3.1
+146,14640125,"Grilled cheese sandwich, Cheddar cheese, on white bread",9,367.24,26.38,2.89,1.21,25.17,11.72
+146,14620150,Cheese dip with chili pepper,8,142.64,11.14,1.95,0.71,10.43,2.49
+210,21000100,"Beef, NS as to cut, cooked, NS as to fat eaten",10,183.81,0.0,0.0,0.0,0.0,2.64
+211,21101130,"Beef steak, broiled or baked, lean only eaten",71,183.73,0.0,0.0,0.0,0.0,2.64
+211,21101120,"Beef steak, broiled or baked, lean and fat eaten",34,235.02,0.0,0.0,0.0,0.0,5.58
+211,21102130,"Beef steak, fried, lean only eaten",23,183.71,0.0,0.0,0.0,0.0,2.64
+211,21102120,"Beef steak, fried, lean and fat eaten",15,234.95,0.0,0.0,0.0,0.0,5.58
+211,21105130,"Beef steak, braised, lean only eaten",12,163.77,0.0,0.0,0.0,0.0,2.15
+211,21101110,"Beef steak, broiled or baked, NS as to fat eaten",6,183.77,0.0,0.0,0.0,0.0,2.64
+211,21101000,"Beef steak, NS as to cooking method, NS as to fat eaten",5,183.45,0.0,0.0,0.0,0.0,2.64
+211,21101020,"Beef steak, NS as to cooking method, lean only eaten",5,183.83,0.0,0.0,0.0,0.0,2.64
+211,21104110,"Beef steak, battered, fried, NS as to fat eaten",5,231.26,9.96,0.07,0.34,9.62,3.89
+211,21105120,"Beef steak, braised, lean and fat eaten",5,250.8,0.0,0.0,0.0,0.0,5.12
+214,21401120,"Beef, roast, roasted, lean only eaten",21,150.12,0.0,0.0,0.0,0.0,1.37
+214,21401000,"Beef, roast, roasted, NS as to fat eaten",11,166.46,0.0,0.0,0.0,0.0,1.78
+214,21401110,"Beef, roast, roasted, lean and fat eaten",11,158.76,0.0,0.0,0.0,0.0,1.66
+214,21407120,"Beef, pot roast, braised or boiled, lean only eaten",9,250.79,0.0,0.0,0.0,0.0,5.12
+214,21420100,"Beef, sandwich steak, flaked, formed, thinly sliced",9,329.25,0.0,0.0,0.0,0.0,11.69
+215,21500310,"Ground beef patty, cooked",39,272.16,0.0,0.0,0.0,0.0,6.95
+215,21500100,"Ground beef, cooked",18,260.48,0.0,0.0,0.0,0.0,6.45
+216,21602100,Beef jerky,22,410.0,11.0,9.0,1.76,9.24,10.85
+216,21601000,"Beef, bacon, cooked",6,449.04,1.38,0.0,0.0,1.38,14.35
+220,22000100,"Pork, NS as to cut, cooked, NS as to fat eaten",19,211.41,0.0,0.0,0.0,0.0,3.27
+220,22000110,"Pork, NS as to cut, cooked, lean and fat eaten",5,211.61,0.0,0.0,0.0,0.0,3.27
+221,22101120,"Pork chop, broiled or baked, lean only eaten",21,164.13,0.09,0.0,0.0,0.09,1.54
+221,22101210,"Pork chop, fried, lean and fat eaten",19,211.43,0.0,0.0,0.0,0.0,3.27
+221,22101220,"Pork chop, fried, lean only eaten",15,164.17,0.09,0.0,0.0,0.09,1.54
+221,22101110,"Pork chop, broiled or baked, lean and fat eaten",10,211.58,0.0,0.0,0.0,0.0,3.27
+221,22101320,"Pork chop, breaded or floured, fried, lean only eaten",9,271.26,16.26,1.43,1.0,15.26,2.48
+221,22101310,"Pork chop, breaded or floured, fried, lean and fat eaten",5,305.18,16.19,1.43,0.99,15.2,3.72
+223,22311000,"Ham, smoked or cured, cooked, NS as to fat eaten",40,148.5,1.19,1.05,0.0,1.19,2.28
+223,22311020,"Ham, smoked or cured, cooked, lean only eaten",19,139.43,1.05,1.05,0.0,1.05,1.66
+223,22311450,"Ham, prosciutto",9,195.5,0.3,0.0,0.0,0.3,2.78
+223,22311010,"Ham, smoked or cured, cooked, lean and fat eaten",7,148.65,1.19,1.04,0.0,1.19,2.28
+224,22400120,"Pork roast, NS as to cut, cooked, lean only eaten",8,207.29,0.0,0.0,0.0,0.0,3.48
+226,22600200,"Pork bacon, NS as to fresh, smoked or cured, cooked",137,467.81,1.7,0.0,0.0,1.7,11.96
+226,22600100,"Bacon, NS as to type of meat, cooked",30,467.18,1.71,0.0,0.0,1.71,11.96
+226,22600210,"Pork bacon, NS as to fresh, smoked or cured, reduced sodium, cooked",10,541.67,1.43,0.0,0.0,1.43,13.74
+227,22701010,"Pork, spareribs, cooked, lean and fat eaten",23,393.78,0.0,0.0,0.0,0.0,11.03
+227,22709010,Pork skin rinds,22,543.81,0.0,0.0,0.0,0.0,11.37
+227,22701020,"Pork, spareribs, cooked, lean only eaten",21,206.2,0.0,0.0,0.0,0.0,2.37
+230,23000100,"Lamb, NS as to cut, cooked",7,291.3,0.0,0.0,0.0,0.0,8.76
+231,23150100,"Goat, boiled",5,142.28,0.0,0.0,0.0,0.0,0.92
+241,24100020,"Chicken, NS as to part and cooking method, skin not eaten",54,164.23,0.0,0.0,0.0,0.0,1.58
+241,24198741,"Chicken tenders or strips, breaded, from fast food",41,271.1,17.25,0.4,1.2,16.05,2.49
+241,24198731,"Chicken nuggets, from fast food",40,306.87,14.93,0.08,0.91,14.02,3.57
+241,24123311,"Chicken breast, grilled with sauce, skin not eaten",31,177.66,7.34,5.98,0.17,7.17,0.89
+241,24123301,"Chicken breast, grilled without sauce, skin not eaten",30,175.69,0.0,0.0,0.0,0.0,1.01
+241,24122131,"Chicken breast, baked, broiled, or roasted, skin not eaten, from raw",29,161.04,0.0,0.0,0.0,0.0,0.76
+241,24124201,"Chicken breast, sauteed, skin not eaten",29,175.7,0.0,0.0,0.0,0.0,1.01
+241,24100000,"Chicken, NS as to part and cooking method, NS as to skin eaten",27,164.43,0.0,0.0,0.0,0.0,1.58
+241,24127220,"Chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant",23,271.47,10.65,0.1,0.29,10.36,3.59
+241,24168000,"Chicken ""wings"" with hot sauce, from fast food / restaurant",22,270.87,6.18,2.23,0.06,6.12,6.57
+241,24122141,"Chicken breast, baked or broiled, skin not eaten, from pre-cooked",20,143.99,0.0,0.0,0.0,0.0,0.86
+241,24157320,"Chicken thigh, fried, coated, skin / coating eaten, from fast food",20,292.85,12.94,0.1,0.35,12.58,4.58
+241,24168001,"Chicken ""wings"" with other sauces or seasoning, from fast food / restaurant",20,275.61,13.13,7.55,0.23,12.9,4.15
+241,24123120,"Chicken breast, stewed, skin not eaten",19,149.06,0.0,0.0,0.0,0.0,0.7
+241,24122161,"Chicken breast, baked, broiled, or roasted with marinade, skin not eaten, from raw",17,174.14,0.31,0.28,0.0,0.31,1.0
+242,24201000,"Turkey, NFS",23,139.11,0.0,0.0,0.0,0.0,0.59
+242,24208500,"Turkey bacon, cooked",23,367.65,4.24,4.24,0.0,4.24,6.93
+242,24201120,"Turkey, light meat, roasted, skin not eaten",18,139.02,0.0,0.0,0.0,0.0,0.59
+242,24207000,"Turkey, ground",11,201.34,0.0,0.0,0.0,0.0,2.65
+242,24201130,"Turkey, light meat, roasted, skin eaten",7,168.92,0.03,0.0,0.0,0.03,1.59
+252,25230210,"Ham, prepackaged or deli, luncheon meat",159,106.03,0.27,0.0,0.0,0.27,1.12
+252,25230780,"Turkey, prepackaged or deli, luncheon meat",119,105.94,2.2,0.91,0.0,2.2,0.91
+252,25221405,Pork sausage,92,325.38,1.42,1.09,0.0,1.42,8.83
+252,25220410,"Bologna, NFS",41,281.05,6.31,1.97,0.0,6.31,7.39
+252,25221500,"Salami, NFS",36,378.09,0.72,0.26,0.0,0.72,11.42
+252,25221350,Italian sausage,32,322.31,2.15,1.46,0.0,2.15,9.15
+252,25221310,Polish sausage,24,337.13,5.03,2.39,0.0,5.03,9.89
+252,25221250,"Pepperoni, NFS",18,503.03,1.17,0.0,0.0,1.17,17.71
+252,25231110,"Beef, prepackaged or deli, luncheon meat",14,115.05,0.64,0.29,0.0,0.64,1.32
+252,25221830,Turkey or chicken sausage,13,198.88,1.1,0.0,0.0,1.1,2.98
+252,25230320,"Chicken, prepackaged or deli, luncheon meat",13,97.92,2.92,0.75,0.0,2.92,0.56
+252,25210210,"Frankfurter or hot dog, beef",12,330.5,3.04,1.33,0.0,3.04,12.0
+252,25220350,Bratwurst,12,333.3,2.85,0.0,0.0,2.85,10.0
+252,25220105,Beef sausage,11,327.99,3.37,1.0,0.0,3.37,11.3
+252,25221400,"Sausage, NFS",10,324.86,1.42,1.09,0.0,1.42,8.83
+261,26155110,"Tuna, canned, NS as to oil or water pack",21,90.17,0.08,0.0,0.0,0.08,0.22
+261,26137120,"Salmon, baked or broiled, made with oil",19,188.89,0.1,0.04,0.0,0.1,1.51
+261,26107140,"Catfish, coated, fried, made with oil",14,245.92,9.85,0.88,0.63,9.22,2.77
+261,26158010,"Tilapia, baked or broiled, made with oil",12,151.11,0.1,0.04,0.0,0.1,1.23
+261,26137160,"Salmon, steamed or poached",11,159.83,0.0,0.0,0.0,0.0,1.02
+261,26137123,"Salmon, baked or broiled, no added fat",10,160.18,0.1,0.04,0.0,0.1,1.02
+261,26158030,"Tilapia, coated, fried, made with oil",10,226.19,9.85,0.88,0.62,9.23,2.15
+261,26137110,"Salmon, cooked, NS as to cooking method",9,188.96,0.1,0.04,0.0,0.1,1.51
+261,26100270,"Fish stick, patty or nugget from restaurant, home, or other place",7,277.01,21.66,1.65,1.5,20.16,3.73
+261,26107120,"Catfish, baked or broiled, made with oil",7,179.27,0.1,0.04,0.0,0.1,2.12
+261,26117140,"Haddock, coated, fried",7,207.45,9.85,0.88,0.61,9.24,1.73
+261,26100140,"Fish, NS as to type, coated, fried, made with oil",6,236.9,9.85,0.88,0.62,9.23,2.3
+261,26109120,"Cod, baked or broiled, made with oil",6,118.09,0.1,0.04,0.0,0.1,0.62
+261,26109140,"Cod, coated, fried, made with oil",6,203.11,9.85,0.88,0.61,9.24,1.72
+261,26127140,"Perch, coated, fried, made with oil",6,221.97,9.85,0.88,0.62,9.23,1.81
+262,26213140,"Squid, coated, fried",6,230.79,12.94,0.91,0.63,12.31,2.03
+263,26319145,"Shrimp, coated, fried, from fast food / restaurant",27,308.14,22.29,0.91,1.51,20.78,3.36
+263,26319120,"Shrimp, baked or broiled, made with oil",23,117.23,1.18,0.03,0.0,1.18,0.82
+263,26319110,"Shrimp, cooked, NS as to cooking method",22,212.4,11.02,0.91,0.65,10.37,1.94
+263,26319130,"Shrimp, steamed or boiled",12,90.73,1.16,0.0,0.0,1.16,0.33
+263,26305160,"Crab, hard shell, steamed",11,82.49,0.0,0.0,0.0,0.0,0.2
+263,26319123,"Shrimp, baked or broiled, no added fat",5,87.03,1.22,0.03,0.0,1.22,0.32
+271,27120030,Ham or pork with barbecue sauce,25,205.33,12.69,10.35,0.28,12.41,2.56
+271,27146350,Orange chicken,16,261.94,22.46,13.6,0.79,21.67,2.42
+271,27111406,"Chili con carne with beans, home recipe",14,97.48,7.21,2.28,2.39,4.82,1.57
+271,27146150,Chicken curry,13,105.86,6.47,2.6,1.4,5.07,1.56
+271,27150210,Fish sauce,12,35.06,3.64,3.64,0.0,3.64,0.0
+271,27111500,"Beef sloppy joe, no bun",11,137.3,9.14,6.67,0.84,8.3,2.52
+271,27145000,Chicken or turkey with teriyaki,11,163.26,1.62,1.47,0.0,1.62,1.48
+271,27141000,Chicken or turkey cacciatore,10,173.58,6.94,1.6,1.05,5.89,2.58
+271,27116100,Beef curry,8,111.02,6.47,2.6,1.4,5.07,1.8
+271,27141500,Chili con carne with chicken or turkey and beans,8,83.96,7.36,2.27,2.43,4.93,0.68
+271,27146300,Chicken or turkey parmigiana,8,174.2,8.26,1.7,0.77,7.49,2.63
+271,27146360,Sesame chicken,7,293.0,26.88,15.98,0.7,26.18,2.41
+271,27151030,Ceviche,7,61.8,3.58,1.36,0.55,3.03,0.16
+271,27111420,Chili con carne without beans,6,118.01,6.1,1.1,0.51,5.59,2.26
+271,27112010,Salisbury steak with gravy,6,148.94,6.78,0.26,1.0,5.78,3.98
+272,27214110,"Meat loaf made with beef, with tomato-based sauce",29,159.72,6.76,2.24,0.68,6.08,3.06
+272,27214100,Meat loaf made with beef,26,199.66,7.19,1.85,0.45,6.74,3.95
+272,27243000,"Chicken or turkey and rice, no sauce",13,147.98,16.97,0.03,0.24,16.73,0.95
+272,27260010,"Meat loaf, NS as to type of meat",7,202.07,7.19,1.82,0.44,6.75,4.12
+272,27220010,Meat loaf made with ham,6,178.2,6.13,1.69,0.27,5.86,2.25
+272,27213000,"Beef and rice, no sauce",5,145.2,17.23,0.03,0.25,16.98,1.11
+272,27246500,Meat loaf made with chicken or turkey,5,172.76,8.06,2.14,0.55,7.51,1.91
+272,27250070,Salmon cake or patty,5,245.97,2.58,0.51,0.2,2.38,3.36
+273,27347100,Chicken or turkey pot pie,10,203.99,19.21,2.26,1.1,18.11,4.37
+273,27363000,Gumbo with rice,7,89.28,6.54,1.7,0.9,5.64,0.77
+273,27311410,"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",5,79.12,8.58,1.22,1.38,7.2,0.58
+273,27345010,"Chicken or turkey, rice, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",5,149.91,18.19,0.69,0.97,17.22,0.9
+273,27363100,Jambalaya with meat and rice,5,161.86,8.64,0.94,0.72,7.92,2.21
+274,27446200,"Chicken or turkey salad, made with mayonnaise",22,234.57,2.8,2.1,0.43,2.38,3.23
+274,27445110,"Chicken or turkey and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",14,94.97,5.38,2.93,0.9,4.48,0.77
+274,27450100,Tuna salad with egg,8,192.11,2.67,1.99,0.38,2.29,2.58
+274,27415100,"Beef and vegetables including carrots, broccoli, and/or dark-green leafy; no potatoes, soy-based sauce",7,142.24,4.79,1.55,1.25,3.54,1.97
+274,27445120,"Chicken or turkey and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, soy-based sauce",6,130.48,4.44,1.69,0.92,3.52,1.38
+274,27450060,"Tuna salad, made with mayonnaise",6,195.66,2.82,2.07,0.42,2.39,2.52
+274,27420350,"Pork and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",5,124.02,5.52,1.06,1.15,4.37,1.67
+274,27445150,General Tso chicken,5,295.23,23.99,11.6,0.88,23.11,2.76
+274,27445220,Kung pao chicken,5,128.6,6.87,3.03,1.48,5.39,1.35
+274,27450405,"Shrimp and vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes, no sauce",5,123.23,6.78,1.2,1.31,5.47,1.05
+275,27540146,"Chicken fillet sandwich, fried, from fast food",46,280.83,27.48,3.07,1.66,25.82,3.07
+275,27510215,"Cheeseburger, from fast food, 1 medium patty",45,296.94,18.62,2.92,0.66,17.96,6.9
+275,27510241,"Cheeseburger, on white bun, 1 medium patty",45,296.86,18.62,2.92,0.65,17.96,6.9
+275,27550720,"Tuna salad sandwich, on bread",27,220.49,18.28,3.16,1.05,17.23,1.95
+275,27510401,"Double cheeseburger, from fast food, 2 medium patties",25,300.41,11.68,1.96,0.4,11.28,8.22
+275,27564060,"Frankfurter or hot dog sandwich, beef, plain, on white bun",23,307.84,23.81,3.95,0.78,23.03,7.08
+275,27510631,"Hamburger, on white bun, 1 medium patty",21,287.67,20.68,3.01,0.75,19.93,5.5
+275,27510231,Whopper with cheese (Burger King),17,267.95,17.73,4.5,1.1,16.63,5.75
+275,27560650,Sausage on biscuit,17,370.92,29.99,1.59,0.41,29.58,7.43
+275,27540147,"Chicken fillet sandwich, fried, from fast food, with cheese",16,290.71,24.57,2.98,1.44,23.13,4.77
+275,27510172,Cheeseburger (McDonalds),15,270.02,25.46,5.24,1.91,23.56,5.8
+275,27560300,"Corn dog, frankfurter or hot dog with cornbread coating",15,250.0,26.96,7.54,1.01,25.95,3.47
+275,27564440,"Frankfurter or hot dog sandwich, with chili, on white bun",15,230.38,19.68,3.15,1.75,17.93,4.83
+275,27510195,"Cheeseburger, on white bun, 1 small patty",14,298.4,19.5,3.1,0.68,18.83,6.97
+275,27540291,"Chicken submarine sandwich, with cheese, lettuce, tomato and spread",14,155.0,22.54,6.06,1.19,21.35,0.51
+281,28160310,"Meat loaf with potatoes, vegetable, frozen meal",5,133.22,10.1,3.1,1.22,8.87,2.21
+283,28340660,"Chicken or turkey vegetable soup, home recipe",23,48.33,4.14,1.31,0.79,3.35,0.32
+283,28311010,Pepperpot soup,7,48.17,3.1,0.79,0.26,2.84,1.31
+283,28315150,"Meat and corn hominy soup, home recipe, Mexican style",7,89.72,5.1,1.52,0.41,4.7,1.3
+283,28310330,Pho,6,88.47,10.41,0.77,0.56,9.85,0.67
+283,28340680,"Chicken or turkey and corn hominy soup,  home recipe, Mexican style",5,74.93,5.1,1.52,0.41,4.7,0.61
+283,28350050,Fish chowder,5,112.41,6.1,0.92,0.74,5.36,3.73
+283,28355110,"Clam chowder, New England, NS as to prepared with water or milk",5,60.98,7.46,2.81,0.3,7.16,1.09
+283,28355480,"Seafood soup with vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes",5,41.69,2.81,0.96,0.6,2.21,0.23
+285,28500040,"Gravy, beef",35,53.17,4.81,0.21,0.39,4.42,1.15
+285,28520010,"Gravy, NFS",18,53.29,4.81,0.21,0.37,4.45,1.15
+285,28500000,"Gravy, poultry",7,47.95,5.29,0.31,0.07,5.22,0.64
+285,28520100,Oyster sauce,6,50.67,10.92,0.0,0.1,10.82,0.04
+311,31103010,"Egg, whole, boiled or poached",137,143.34,0.72,0.37,0.0,0.72,3.13
+311,31105030,"Egg, whole, fried with oil",85,190.91,0.67,0.35,0.0,0.67,3.81
+311,31105090,"Egg, whole, fried, from fast food / restaurant",39,190.91,0.67,0.35,0.0,0.67,3.81
+311,31105020,"Egg, whole, fried with margarine",26,170.91,0.73,0.35,0.0,0.73,3.75
+311,31102000,"Egg, whole, cooked, NS as to cooking method",20,175.67,0.68,0.36,0.0,0.68,3.58
+311,31105040,"Egg, whole, fried with butter",18,180.0,0.67,0.35,0.0,0.67,6.26
+311,31105010,"Egg, whole, fried no added fat",17,142.67,0.72,0.37,0.0,0.72,3.12
+311,31108100,"Egg, white, cooked, NS as to fat",16,98.91,0.69,0.67,0.0,0.69,1.62
+311,31105005,"Egg, whole, fried, NS as to fat",15,183.64,0.69,0.35,0.0,0.69,4.53
+311,31105080,"Egg, whole, fried with cooking spray",15,148.73,0.92,0.37,0.0,0.92,3.14
+311,31105060,"Egg, whole, fried with animal fat or meat drippings",7,188.09,0.67,0.35,0.0,0.67,5.23
+321,32130010,"Egg omelet or scrambled egg, made with oil",53,190.94,0.67,0.35,0.0,0.67,3.81
+321,32130080,"Egg omelet or scrambled egg, from fast food / restaurant",46,191.0,0.67,0.35,0.0,0.67,3.81
+321,32130020,"Egg omelet or scrambled egg, made with butter",25,180.0,0.67,0.35,0.0,0.67,6.26
+321,32130000,"Egg omelet or scrambled egg, made with margarine",22,170.91,0.73,0.35,0.0,0.73,3.75
+321,32130070,"Egg omelet or scrambled egg, no added fat",22,142.7,0.72,0.37,0.0,0.72,3.12
+321,32130110,"Egg omelet or scrambled egg, with cheese, made with oil",19,211.7,1.12,0.59,0.0,1.12,5.37
+321,32130060,"Egg omelet or scrambled egg, made with cooking spray",16,148.71,0.92,0.37,0.0,0.92,3.14
+321,32130400,"Egg omelet or scrambled egg, with tomatoes, fat added",14,164.24,1.27,0.72,0.19,1.08,3.98
+321,32130490,"Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, fat added",11,164.79,1.19,0.64,0.14,1.04,3.98
+321,32129990,"Egg omelet or scrambled egg, NS as to fat",10,183.62,0.68,0.35,0.0,0.68,4.53
+321,32130120,"Egg omelet or scrambled egg, with cheese, made with butter",9,202.15,1.12,0.59,0.0,1.12,7.53
+321,32130065,"Egg omelet or scrambled egg, NS as to fat type",7,183.64,0.68,0.35,0.0,0.68,4.53
+321,32130210,"Egg omelet or scrambled egg, with meat, made with oil",7,198.64,0.79,0.41,0.0,0.79,4.05
+321,32130290,"Egg omelet or scrambled egg, with cheese and meat, NS as to fat",6,208.97,1.17,0.62,0.0,1.17,6.0
+321,32130690,"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, fat added",6,185.93,1.53,0.82,0.16,1.37,5.36
+322,32202050,"Egg, cheese, and sausage on biscuit",10,324.04,21.57,3.1,2.01,19.56,8.6
+322,32202030,"Egg, cheese, and sausage on English muffin",9,286.16,17.44,1.49,0.19,17.25,6.93
+322,32202010,"Egg, cheese, and ham on English muffin",6,228.03,21.67,2.13,0.39,21.28,3.59
+323,32300100,Egg drop soup,7,26.98,4.29,0.09,0.4,3.89,0.17
+324,32400065,"Egg white omelet, scrambled, or fried, made with oil",8,105.76,0.68,0.66,0.0,0.68,0.89
+324,32400055,"Egg white omelet, scrambled, or fried, NS as to fat",6,99.07,0.69,0.66,0.0,0.69,1.62
+324,32400300,"Egg white, omelet, scrambled, or fried, with vegetables",5,90.56,1.27,0.74,0.29,0.97,1.43
+330,33001010,"Egg substitute, omelet, scrambled, or fried, fat added",5,94.92,1.88,1.87,0.0,1.88,1.62
+411,41104010,"Pinto beans, from dried, fat added",22,190.31,24.37,0.32,8.35,16.02,1.02
+411,41102020,"Black beans, from dried, no added fat",19,131.19,23.57,0.32,8.65,14.92,0.14
+411,41104020,"Pinto beans, from dried, no added fat",19,142.19,26.07,0.34,8.94,17.12,0.14
+411,41102150,"Black beans, from fast food / restaurant",10,198.66,21.36,0.29,7.84,13.52,1.36
+411,41100990,"Beans, NFS",9,187.76,23.78,0.31,8.26,15.52,1.02
+411,41101990,"Black beans, NFS",9,180.24,22.03,0.3,8.08,13.96,1.02
+411,41106010,"Kidney beans, from dried, fat added",9,175.65,21.19,0.3,6.87,14.32,0.96
+411,41102080,"Black beans, from canned, no added fat",8,133.65,24.34,0.34,10.14,14.2,0.11
+411,41104250,Pinto beans with meat,8,185.37,21.07,0.38,7.19,13.87,1.17
+411,41106510,"Peruvian beans, from dried",8,191.41,23.49,0.32,9.66,13.83,1.15
+411,41104200,"Pinto beans, from fast food / restaurant",7,208.75,23.62,0.31,8.11,15.51,1.36
+411,41102010,"Black beans, from dried, fat added",5,180.23,22.03,0.3,8.09,13.94,1.02
+411,41104040,"Pinto beans, from canned, fat added",5,186.74,24.33,1.64,7.36,16.97,1.04
+412,41201010,Baked beans,26,105.05,21.57,8.23,4.4,17.17,0.23
+412,41205010,Refried beans,24,90.12,13.55,0.54,3.69,9.86,0.63
+412,41205075,"Hummus, flavored",20,257.59,19.62,2.93,5.91,13.71,2.4
+412,41205070,"Hummus, plain",15,260.01,19.86,2.91,5.99,13.88,2.43
+412,41205017,"Refried beans, from fast food / restaurant",14,177.01,16.29,0.76,7.76,8.53,2.18
+412,41208030,Pork and beans,11,105.02,21.57,8.23,4.41,17.16,0.23
+412,41201050,Baked beans from fast food / restaurant,10,115.28,23.29,10.38,4.27,19.02,0.29
+412,41205050,"Bean dip, made with refried beans",6,119.11,15.89,0.99,4.89,11.0,0.53
+412,41209000,Falafel,5,508.0,29.01,4.53,4.76,24.25,5.55
+413,41311030,Lentil curry,20,109.5,12.28,3.24,3.45,8.83,1.3
+413,41304990,"Lentils, from dried, fat added",15,165.47,18.71,1.67,7.35,11.36,0.94
+413,41301990,"Chickpeas, NFS",10,210.01,25.48,4.46,7.07,18.41,1.14
+413,41304970,"Lentils, NFS",5,165.47,18.71,1.67,7.33,11.38,0.94
+413,41311040,Lentil curry with rice,5,117.32,18.57,1.97,2.23,16.33,0.81
+414,41420300,Soy sauce,62,53.06,4.93,0.4,0.7,4.23,0.07
+414,41420010,Soybean curd,22,61.06,1.18,0.7,0.19,0.99,0.53
+414,41420350,"Soy sauce, reduced sodium",14,58.18,5.59,0.49,0.65,4.94,0.04
+414,41420400,Teriyaki sauce,11,88.27,15.57,14.1,0.03,15.53,0.0
+414,41420020,"Edamame, cooked",7,139.75,8.63,2.11,5.03,3.6,1.32
+416,41603010,"Lentil soup, home recipe, canned, or ready-to-serve",20,64.01,8.82,1.31,3.22,5.6,0.23
+416,41601070,"Soybean soup, miso broth",10,32.49,2.47,0.89,0.41,2.06,0.22
+416,41601030,"Black bean soup, home recipe, canned or ready-to-serve",5,45.99,7.71,1.24,3.4,4.31,0.17
+418,41811890,"Vegetarian burger or patty, meatless, no bun",11,177.06,14.27,1.07,4.87,9.4,1.44
+418,41810250,Bacon bits,8,474.8,28.58,0.0,10.2,18.38,4.06
+421,42116000,"Walnuts, excluding honey roasted",48,653.35,13.71,2.61,6.69,7.02,6.13
+421,42101130,"Almonds, unsalted",44,606.73,20.38,4.72,10.58,9.8,4.38
+421,42100050,"Nuts, NFS",21,604.98,21.05,4.53,7.5,13.55,7.6
+421,42111100,"Peanuts, roasted, salted",20,599.23,15.26,4.18,9.4,5.86,8.65
+421,42101110,"Almonds, salted",18,600.56,20.18,4.67,10.49,9.69,4.34
+421,42110160,"Mixed nuts, without peanuts, unsalted",17,614.47,22.46,4.52,7.37,15.09,7.23
+421,42111210,"Peanuts, dry roasted, unsalted",17,586.83,21.26,4.9,8.37,12.89,7.72
+421,42110100,"Mixed nuts, with peanuts, salted",16,604.7,21.04,4.53,7.59,13.45,7.6
+421,42111200,"Peanuts, dry roasted, salted",16,587.05,21.26,4.9,8.43,12.83,7.72
+421,42104100,"Cashews, salted",14,577.58,31.39,4.81,2.86,28.53,9.2
+421,42114140,"Pistachio nuts, salted",12,575.47,27.16,7.43,9.9,17.26,5.83
+421,42100100,"Almonds, NFS",11,597.97,21.01,4.86,10.91,10.1,4.09
+421,42110150,"Mixed nuts, without peanuts, salted",11,609.71,22.28,4.48,7.34,14.94,7.17
+421,42101000,"Almonds, unroasted",9,579.28,21.56,4.34,12.5,9.05,3.8
+421,42104110,"Cashews, unsalted",9,583.7,31.71,4.87,2.9,28.81,9.29
+422,42202000,Peanut butter,87,597.68,22.3,10.5,4.85,17.46,10.1
+422,42202150,"Peanut butter, reduced fat",7,519.32,35.64,9.3,5.17,30.47,5.76
+422,42200500,Almond butter,5,612.32,18.82,6.27,10.22,8.59,6.55
+423,42302015,"Peanut butter and jelly sandwich, with regular peanut butter, regular jelly, on white bread",29,362.53,45.22,15.01,2.77,42.45,3.33
+423,42302025,"Peanut butter and jelly sandwich, with regular peanut butter, regular jelly, on whole wheat bread",15,359.06,43.2,14.93,4.45,38.75,3.27
+423,42301015,"Peanut butter sandwich, with regular peanut butter, on white bread",10,383.98,39.85,7.13,3.18,36.67,4.05
+423,42302020,"Peanut butter and jelly sandwich, with regular peanut butter, regular jelly, on wheat bread",9,358.98,43.2,14.94,4.46,38.74,3.27
+423,42302105,"Peanut butter and jelly sandwich, with regular peanut butter, reduced sugar jelly, on white bread",8,342.01,39.44,11.11,2.86,36.59,3.33
+423,42301020,"Peanut butter sandwich, with regular peanut butter, on wheat bread",6,379.35,37.38,7.05,5.2,32.18,3.98
+423,42302115,"Peanut butter and jelly sandwich, with regular peanut butter, reduced sugar jelly, on whole wheat bread",5,338.62,37.42,11.04,4.53,32.89,3.27
+424,42403010,"Coconut water, unsweetened",7,18.05,4.24,3.92,0.0,4.24,0.0
+425,42501500,Trail mix with chocolate,15,500.69,48.32,34.85,6.0,42.33,7.01
+425,42501000,Trail mix with nuts and fruit,14,451.6,51.12,36.49,6.47,44.65,3.69
+425,42502100,"Trail mix with pretzels, cereal, or granola",7,473.42,50.65,19.32,6.11,44.54,3.8
+431,43108010,Chia seeds,17,533.32,28.88,1.54,27.71,1.17,3.67
+431,43102000,"Sunflower seeds, plain, unsalted",13,583.91,24.04,2.75,10.92,13.13,5.22
+431,43104000,Flax seeds,12,533.16,28.89,1.56,27.52,1.37,3.66
+431,43102300,"Sunflower seeds, flavored",11,566.31,25.92,5.56,10.56,15.36,4.98
+431,43102100,"Sunflower seeds, plain, salted",10,575.15,23.78,2.7,10.95,12.84,5.16
+431,43101100,"Pumpkin seeds, salted",5,566.37,14.54,1.29,6.43,8.11,8.44
+431,43107000,Mixed seeds,5,586.49,21.76,2.41,10.0,11.76,6.05
+511,51101000,"Bread, white",224,269.86,49.2,5.34,2.3,46.9,0.82
+511,51101010,"Bread, white, toasted",92,296.21,54.07,5.87,2.55,51.52,0.9
+511,51150000,"Roll, white, soft",84,278.89,50.12,7.28,1.8,48.32,0.84
+511,51180010,Bagel,56,263.91,52.38,8.43,1.61,50.77,0.36
+511,51154100,"Roll, white, hamburger bun",52,278.87,50.12,7.28,1.78,48.34,0.84
+511,51185000,Croutons,50,466.5,63.52,4.41,5.05,58.47,5.25
+511,51101050,"Bread, white, made from home recipe or purchased at a bakery",38,269.76,50.09,3.11,1.68,48.41,1.21
+511,51160110,"Roll, sweet, cinnamon bun, frosted",38,452.09,48.6,25.7,1.2,47.4,12.65
+511,51109010,"Bread, Italian, Grecian, Armenian",37,258.81,48.11,4.69,2.13,45.97,0.54
+511,51166000,Croissant,37,405.89,45.8,11.26,2.61,43.19,11.66
+511,51157000,"Roll, white, hoagie, submarine",34,279.21,50.12,7.28,1.8,48.32,0.84
+511,51107010,"Bread, French or Vienna",33,271.87,51.88,4.62,2.19,49.69,0.53
+511,51161250,"Pan Dulce, no topping",28,367.16,56.38,12.5,2.28,54.1,2.18
+511,51121035,"Garlic bread, from frozen",27,350.06,41.72,3.69,2.52,39.2,5.28
+511,51186010,"Muffin, English",24,227.53,44.17,3.53,3.46,40.72,0.73
+513,51301010,"Bread, wheat or cracked wheat",153,273.63,47.54,5.73,3.94,43.59,0.7
+513,51300110,"Bread, whole wheat",88,253.91,43.1,4.41,6.0,37.1,0.73
+513,51301020,"Bread, wheat or cracked wheat, toasted",70,301.33,52.24,6.3,4.39,47.85,0.77
+513,51300120,"Bread, whole wheat, toasted",44,278.84,47.36,4.85,6.66,40.7,0.8
+513,51300175,"Bread, chappatti or roti, wheat",40,299.0,46.13,2.93,9.71,36.42,3.31
+513,51300050,"Bread, whole grain white",17,237.68,43.92,5.0,9.17,34.75,0.63
+513,51320010,"Roll, wheat or cracked wheat",17,272.79,46.0,1.63,3.79,42.21,1.5
+513,51301600,"Bread, pita, whole wheat",9,262.03,55.89,2.87,6.12,49.78,0.21
+513,51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",8,262.81,49.24,3.18,3.41,45.82,1.26
+513,51301620,"Bread, pita, wheat or cracked wheat",8,261.83,55.89,2.87,6.11,49.79,0.21
+513,51303030,"Muffin, English, whole wheat",6,222.57,44.79,1.57,4.64,40.15,0.29
+513,51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",5,247.35,47.44,3.37,6.82,40.62,1.39
+513,51300185,"Bread, paratha, wheat",5,325.71,45.35,4.15,9.6,35.75,5.83
+513,51301750,"Bagel, whole wheat",5,250.39,48.89,6.12,4.1,44.79,0.0
+513,51301800,"Bagel, wheat, with raisins",5,255.06,51.93,12.03,4.12,47.81,0.01
+514,51401010,"Bread, rye",12,259.21,48.3,3.85,5.83,42.47,0.63
+514,51401020,"Bread, rye, toasted",5,285.01,53.09,4.23,6.34,46.75,0.69
+516,51601010,"Bread, multigrain, toasted",36,290.91,47.63,7.03,8.17,39.46,0.96
+516,51601020,"Bread, multigrain",33,265.11,43.34,6.39,7.4,35.95,0.87
+521,52103000,"Biscuit, from fast food / restaurant",50,370.11,42.82,3.88,2.55,40.27,11.8
+521,52102040,"Biscuit, from refrigerated dough",22,324.39,49.05,8.19,2.81,46.24,5.51
+521,52101000,"Biscuit, NFS",21,370.39,42.82,3.88,2.5,40.32,11.8
+521,52104010,"Biscuit, home recipe",7,342.74,44.4,4.48,1.38,43.02,9.36
+521,52104100,"Biscuit, cheese",5,373.88,38.78,3.53,2.25,36.53,12.54
+522,52215100,"Tortilla, corn",136,217.86,44.64,0.88,6.31,38.34,0.45
+522,52215200,"Tortilla, flour",64,306.02,49.38,3.71,3.53,45.85,2.92
+522,52201000,"Cornbread, prepared from mix",31,329.94,54.46,16.05,2.3,52.17,3.73
+522,52202060,"Cornbread, made from home recipe",21,283.68,42.66,6.87,1.52,41.13,1.85
+522,52215260,"Tortilla, whole wheat",17,310.05,45.89,2.44,9.78,36.1,4.88
+522,52206010,"Cornbread muffin, stick, round",11,305.1,51.0,17.78,3.39,47.61,1.35
+522,52209010,Hush puppy,9,295.66,40.21,3.8,2.91,37.3,2.62
+522,52215000,"Tortilla, NFS",6,262.09,47.01,2.3,4.9,42.12,1.69
+522,52215300,"Taco shell, corn",6,476.04,63.49,1.5,6.74,56.75,7.1
+523,52302010,"Muffin, fruit",27,375.32,53.0,31.47,1.11,51.89,2.84
+523,52302500,"Muffin, chocolate chip",5,398.29,55.12,32.94,1.74,53.38,5.4
+524,52405010,"Bread, fruit",18,364.08,47.22,24.84,1.45,45.77,2.66
+524,52407000,"Bread, zucchini",7,302.19,42.38,22.74,0.93,41.44,2.18
+531,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",42,389.05,52.84,39.96,2.21,50.63,5.92
+531,53108200,"Snack cake, chocolate, with icing or filling",25,399.11,60.31,37.76,3.21,57.11,4.88
+531,53120270,"Cake or cupcake, white, with icing or filling",20,391.11,56.2,41.79,0.31,55.89,2.94
+531,53121270,"Cake or cupcake, yellow, with icing or filling",20,379.01,55.36,39.22,1.5,53.86,5.79
+531,53105275,"Cake or cupcake, chocolate, devil's food or fudge, without icing or filling",16,327.06,45.46,22.42,1.29,44.17,2.95
+531,53116000,"Cake, pound, without icing or filling",16,353.0,53.64,33.36,0.6,53.04,4.81
+531,53104500,Cheesecake,14,321.04,25.5,21.8,0.4,25.1,9.92
+531,53109200,"Snack cake, not chocolate, with icing or filling",11,374.04,64.03,37.3,0.96,63.07,4.14
+531,53104260,"Cake or cupcake, carrot, with icing or filling",10,429.22,45.74,34.04,1.35,44.39,8.75
+531,53116020,"Cake, pound, with icing or filling",8,402.75,62.78,46.52,0.42,62.35,4.52
+531,53114100,"Cake or cupcake, lemon, with icing or filling",7,386.86,54.97,39.45,0.3,54.68,5.78
+531,53112100,Ice cream cake,5,299.64,39.91,31.5,0.55,39.36,4.86
+532,53206000,"Cookie, chocolate chip",128,491.96,65.36,32.9,2.0,63.36,8.09
+532,53241500,"Cookie, butter or sugar",61,463.98,67.34,27.31,1.32,66.02,7.67
+532,53209015,"Cookie, chocolate sandwich",48,463.85,71.0,40.67,2.92,68.08,5.65
+532,53204010,"Cookie, brownie, without icing",44,405.61,63.9,36.61,2.13,61.77,4.24
+532,53206020,"Cookie, chocolate chip, made from home recipe or purchased at a bakery",29,489.27,59.38,41.14,2.67,56.71,12.89
+532,53233010,"Cookie, oatmeal, with raisins",21,450.18,68.7,24.66,2.79,65.91,4.52
+532,53240000,"Cookie, animal",20,445.96,74.1,23.29,1.09,73.01,3.46
+532,53243000,"Cookie, vanilla sandwich",19,482.96,72.1,39.3,1.48,70.62,2.98
+532,53204100,"Cookie, brownie, with icing or filling",18,401.28,63.55,47.22,1.52,62.03,4.88
+532,53201000,"Cookie, NFS",17,491.74,65.36,32.9,2.0,63.36,8.09
+532,53244020,"Cookie, butter or sugar, with icing or filling other than chocolate",16,433.27,72.71,45.92,0.43,72.27,6.9
+532,53207000,"Cookie, chocolate or fudge",14,433.09,72.7,37.43,3.39,69.31,4.24
+532,53220030,"Cookie, fig bar",14,347.89,70.9,46.36,4.59,66.31,1.12
+532,53226500,"Cookie, marshmallow, with rice cereal, no bake",13,416.7,80.5,19.36,0.0,80.5,1.4
+532,53234000,"Cookie, peanut butter",13,473.19,58.15,28.58,2.08,56.08,6.75
+533,53301000,"Pie, apple, two crust",19,237.03,34.0,15.65,1.6,32.4,3.8
+533,53385000,"Pie, pecan",9,407.23,59.61,25.18,2.12,57.49,2.65
+533,53347000,"Pie, pumpkin",5,242.86,34.83,18.88,1.82,33.01,1.99
+533,53360000,"Pie, sweet potato",5,260.26,29.03,16.59,1.87,27.16,7.61
+534,53452500,"Pastry, mainly flour and water, fried",6,430.33,59.26,15.69,3.7,55.56,4.2
+534,53415120,"Fritter, apple",5,380.89,34.75,14.01,1.29,33.46,6.45
+534,53450000,"Turnover or dumpling, apple",5,347.83,43.55,15.82,1.33,42.22,4.45
+535,53521110,"Doughnut, yeast type",44,421.35,47.93,22.75,2.13,45.8,9.45
+535,53530000,Breakfast tart,25,385.15,71.83,31.0,1.78,70.05,3.09
+535,53520135,"Doughnut, cake type, with icing",22,430.78,51.23,27.15,1.33,49.89,9.48
+535,53520130,"Doughnut, cake type, powdered sugar",12,430.65,51.12,24.28,1.55,49.56,10.25
+535,53520160,"Doughnut, chocolate, with chocolate icing",12,413.16,51.01,24.97,3.87,47.14,9.79
+535,53520170,Doughnut holes,9,425.88,49.53,23.51,1.86,47.66,9.85
+535,53520100,"Doughnut, cake type, plain",8,433.33,47.07,18.15,1.68,45.39,11.11
+535,53521230,"Doughnut, custard-filled, with icing",8,368.76,46.25,27.61,1.56,44.7,7.39
+535,53520140,"Doughnut, cake type, chocolate icing",7,426.67,50.29,26.06,1.56,48.73,9.99
+535,53520120,"Doughnut, chocolate",6,417.24,51.95,26.05,3.73,48.21,9.28
+535,53510100,"Danish pastry, with fruit",5,371.25,47.8,27.53,1.92,45.88,4.86
+536,53610170,"Coffee cake, crumb or quick-bread type, with fruit",6,309.29,50.14,33.79,1.31,48.83,4.83
+537,53729000,"Nutrition bar or meal replacement bar, NFS",21,426.45,45.0,27.0,2.03,42.97,4.5
+537,53712100,"Cereal or Granola bar, NFS",19,471.71,64.4,28.58,5.35,59.05,2.37
+537,53710906,Cereal or granola bar (General Mills Nature Valley Crunchy Granola Bar),18,471.33,64.4,28.57,5.24,59.15,2.37
+537,53710904,Cereal or granola bar (General Mills Nature Valley Sweet and Salty Granola Bar),10,485.92,61.14,33.14,2.86,58.29,6.86
+537,53710400,Cereal or granola bar (General Mills Fiber One Chewy Bar),9,389.97,69.82,25.0,22.49,47.33,3.4
+537,53710500,Cereal or granola bar (Kellogg's Nutri-Grain Cereal Bar),8,365.11,67.62,28.98,2.99,64.63,1.44
+537,53711000,Cereal or granola bar (Quaker Chewy Granola Bar),7,417.5,70.21,28.92,3.75,66.46,6.06
+537,53714500,"Breakfast bar, NFS",6,376.74,72.79,35.09,2.09,70.7,1.5
+537,53720200,Nutrition bar (Clif Bar),6,345.59,65.44,31.62,7.35,58.09,1.47
+537,53720500,Nutrition bar (Snickers Marathon Protein Bar),6,415.26,50.5,28.75,12.53,37.97,6.25
+537,53710504,Cereal or granola bar (Kellogg's Nutri-Grain Fruit and Nut Bar),5,403.12,66.72,32.44,7.5,59.22,1.93
+540,54001000,"Crackers, NFS",6,510.46,61.31,8.18,2.29,59.02,5.56
+541,54102010,Graham crackers,19,430.71,77.67,24.85,3.37,74.3,1.63
+541,54103000,"Crackers, breakfast biscuit",14,426.67,71.0,22.84,7.33,63.67,2.24
+542,54202020,"Crackers, saltine, reduced sodium",8,415.12,73.48,2.2,2.79,70.69,1.98
+543,54325000,"Crackers, saltine",68,417.47,74.05,1.29,2.81,71.25,1.65
+543,54301030,"Crackers, butter (Ritz)",47,510.34,61.3,8.18,2.3,59.01,5.56
+543,54328100,"Crackers, sandwich, peanut butter filled",31,493.19,58.38,10.5,2.32,56.06,4.8
+543,54301010,"Crackers, butter, plain",28,510.34,61.3,8.18,2.3,59.0,5.56
+543,54304005,"Crackers, cheese (Cheez-It)",27,489.05,59.42,4.53,2.33,57.09,5.29
+543,54338000,"Crackers, wheat",19,440.92,70.14,8.34,8.65,61.48,2.64
+543,54304020,"Crackers, cheese (Goldfish)",14,489.16,59.42,4.53,2.29,57.13,5.29
+543,54318500,Rice cake,7,397.44,81.08,0.92,4.1,76.97,0.87
+543,54328105,"Crackers, sandwich, peanut butter filled (Ritz)",6,482.8,57.15,10.0,2.69,54.46,5.06
+543,54301100,"Crackers, butter, reduced fat",5,444.22,71.52,15.01,3.33,68.19,2.11
+543,54328200,"Crackers, sandwich, cheese filled",5,476.76,61.7,3.19,1.89,59.81,6.13
+543,54337020,"Crackers, woven wheat, plain (Triscuit)",5,440.94,70.14,8.33,8.66,61.48,2.64
+543,54337030,"Crackers, woven wheat, flavored (Triscuit)",5,441.07,70.14,8.34,8.64,61.5,2.64
+543,54337060,"Crackers, woven wheat, reduced fat",5,416.26,75.52,1.22,10.94,64.58,1.07
+544,54401075,"Tortilla chips, plain",77,472.15,67.78,0.78,5.36,62.41,2.81
+544,54401081,Cheese flavored corn snacks (Cheetos),62,560.18,53.53,3.19,1.41,52.12,5.36
+544,54401110,"Tortilla chips, nacho cheese flavor (Doritos)",46,518.79,60.81,2.6,5.08,55.73,3.88
+544,54408016,"Pretzels, hard, plain, salted",40,384.16,80.39,2.21,3.43,76.97,0.39
+544,54403056,"Popcorn, microwave, butter flavored",26,537.87,55.99,0.3,10.12,45.87,14.78
+544,54401021,"Corn chips, plain",23,534.92,56.82,0.27,3.96,52.86,4.3
+544,54402080,"Tortilla chips, reduced sodium",19,488.27,68.09,0.72,4.54,63.54,2.66
+544,54401031,"Corn chips, plain (Fritos)",18,538.99,57.27,0.27,4.02,53.25,4.33
+544,54401085,"Tortilla chips, flavored",18,519.37,60.8,2.59,5.11,55.7,3.88
+544,54401065,"Cheese flavored corn snacks, reduced fat",15,431.65,72.35,7.29,3.64,68.71,2.1
+544,54401111,"Tortilla chips, cool ranch flavor (Doritos)",14,470.41,67.44,0.78,5.35,62.09,2.8
+544,54401121,"Tortilla chips, reduced fat, plain",13,410.42,79.07,0.84,5.21,73.86,0.84
+544,54403005,"Popcorn, movie theater, with added butter",13,656.17,31.65,0.29,5.48,26.17,35.47
+544,54420210,Multigrain chips (Sun Chips),13,490.3,67.26,7.21,8.82,58.44,2.17
+544,54401055,Cheese flavored corn snacks,12,560.44,53.53,3.19,1.43,52.1,5.36
+551,55101000,"Pancakes, plain",32,278.9,35.31,7.07,2.13,33.18,3.07
+551,55100050,"Pancakes, plain, from fast food / restaurant",20,303.31,34.12,6.83,2.06,32.06,3.49
+551,55106000,"Pancakes, gluten free",5,215.02,40.32,4.06,1.49,38.83,0.48
+552,55200020,"Waffle, plain, from frozen",14,308.9,48.39,4.41,2.61,45.78,2.27
+552,55200100,"Waffle, plain, from fast food / restaurant",6,422.83,38.91,7.79,2.36,36.55,5.17
+553,55300050,"French toast, plain, from fast food / restaurant",11,309.49,35.64,10.11,1.34,34.3,5.03
+557,55702100,"Dosa (Indian), plain",5,209.58,37.04,0.3,1.82,35.22,0.59
+561,56130000,"Pasta, cooked",29,157.14,30.68,0.56,1.79,28.89,0.18
+561,56140100,"Pasta, gluten free",11,178.95,38.05,0.0,1.4,36.65,0.15
+561,56112000,"Noodles, cooked",10,137.21,25.01,0.4,1.18,23.83,0.42
+561,56117090,"Rice noodles, cooked",10,107.34,23.87,0.03,0.99,22.87,0.02
+562,56205008,"Rice, white, cooked, no added fat",190,129.17,27.99,0.05,0.39,27.6,0.08
+562,56205001,"Rice, white, cooked, NS as to fat",97,129.17,27.99,0.05,0.39,27.6,0.08
+562,56203056,"Oatmeal, regular or quick, made with water, no added fat",78,63.58,11.36,0.17,1.7,9.67,0.19
+562,56205002,"Rice, white, cooked, made with oil",53,150.77,27.19,0.05,0.39,26.81,0.46
+562,56205018,"Rice, brown, cooked, no added fat",31,122.36,25.45,0.24,1.6,23.85,0.26
+562,56203066,"Oatmeal, regular or quick, made with milk, no added fat",29,114.49,16.27,5.09,1.7,14.57,1.36
+562,56205000,"Rice, cooked, NFS",26,129.19,27.99,0.05,0.4,27.59,0.08
+562,56201052,"Grits, regular or quick, made with water, fat added",23,70.81,12.2,0.09,0.71,11.49,0.8
+562,56203130,"Oatmeal, instant, maple flavored, no added fat",18,101.78,20.23,7.99,1.9,18.32,0.2
+562,56205004,"Rice, white, cooked, made with butter",18,145.93,27.2,0.05,0.39,26.81,1.54
+562,56205011,"Rice, brown, cooked, NS as to fat",16,122.4,25.45,0.24,1.59,23.86,0.26
+562,56203155,"Oatmeal, instant, fruit flavored, no added fat",15,100.0,20.09,8.32,1.91,18.18,0.2
+562,56205006,"Rice, white, cooked, made with margarine",13,141.96,27.22,0.05,0.38,26.84,0.44
+562,56201051,"Grits, regular or quick, made with water, no added fat",12,58.1,12.41,0.09,0.73,11.69,0.05
+562,56203610,"Oatmeal, multigrain, no added fat",12,56.15,12.19,0.41,2.0,10.19,0.08
+571,57123000,Cereal (General Mills Cheerios),34,371.94,73.2,4.5,10.08,63.12,1.6
+571,57135000,Cereal (Kellogg's Corn Flakes),26,356.74,84.1,9.5,3.29,80.81,0.12
+571,57100100,"Cereal, ready-to-eat, NFS",18,372.67,79.47,22.17,7.07,72.4,0.94
+571,57125000,Cereal (General Mills Cinnamon Toast Crunch),12,409.89,77.99,30.3,6.77,71.22,0.98
+571,57134000,"Cereal, corn flakes",6,356.59,84.11,9.5,3.34,80.78,0.12
+571,57119000,Cereal (Quaker Cap'n Crunch's Crunchberries),5,397.07,85.93,44.2,2.6,83.33,3.08
+572,57241000,Cereal (General Mills Cheerios Honey Nut),48,376.07,79.69,32.89,7.09,72.6,0.53
+572,57227000,"Cereal, granola",28,421.71,73.75,22.2,9.42,64.33,1.53
+572,57237100,Cereal (Post Honey Bunches of Oats Honey Roasted),22,400.98,81.19,19.79,4.21,76.99,0.64
+572,57237300,Cereal (Post Honey Bunches of Oats with Almonds),20,409.3,79.6,20.0,5.54,74.06,0.8
+572,57214000,Cereal (Kellogg's Frosted Mini-Wheats),18,349.82,83.4,20.3,10.8,72.6,0.4
+572,57213000,Cereal (Kellogg's Froot Loops),11,374.93,88.0,34.5,9.3,78.7,1.8
+572,57223000,Cereal (Post Fruity Pebbles),11,402.29,86.1,34.28,0.78,85.32,3.6
+572,57206700,Cereal (General Mills Fiber One),6,206.92,84.3,1.0,46.23,38.08,0.4
+572,57228000,"Granola, homemade",6,489.07,53.88,19.8,8.91,44.97,3.96
+573,57349000,Cereal (Kellogg's Frosted Flakes),30,369.01,89.2,35.43,2.21,86.99,0.45
+573,57330000,Cereal (Kellogg's Raisin Bran),29,318.01,77.29,31.3,11.4,65.89,0.48
+573,57304100,Cereal (Quaker Life),12,374.14,77.74,19.43,6.57,71.17,0.83
+573,57305100,Cereal (General Mills Lucky Charms),12,380.05,80.89,36.13,5.03,75.86,0.88
+573,57344010,Cereal (Kellogg's Special K Red Berries),11,358.19,87.09,29.7,8.55,78.55,0.3
+573,57329000,"Cereal, raisin bran",10,332.92,79.64,32.97,11.96,67.68,0.36
+573,57308400,Cereal (General Mills Cheerios Multigrain),8,370.19,81.4,21.2,8.69,72.71,0.89
+573,57335550,Cereal (General Mills Reese's Puffs),7,412.99,75.6,35.3,4.68,70.92,2.1
+573,57301505,Cereal (Kashi Autumn Wheat),6,337.97,79.0,12.4,11.2,67.8,0.3
+573,57327500,Cereal (Quaker Oatmeal Squares),5,379.28,77.77,16.69,8.26,69.51,0.87
+573,57339000,Cereal (Kellogg's Rice Krispies),5,381.38,85.05,9.87,0.37,84.67,0.46
+574,57417000,Cereal (Post Shredded Wheat),10,344.21,80.18,0.92,12.41,67.77,0.41
+576,57602100,"Oats, raw",5,380.22,67.7,0.99,10.03,57.66,1.11
+581,58106555,"Pizza with pepperoni, from restaurant or fast food,  medium crust",70,282.01,31.98,3.26,2.3,29.68,5.09
+581,58101345,Soft taco with meat,43,221.58,20.38,2.96,2.11,18.27,4.06
+581,58146322,"Pasta with tomato-based sauce and meat, home recipe",43,123.07,19.15,2.44,1.64,17.51,0.74
+581,58150110,"Rice, fried, meatless",38,174.02,32.5,0.62,1.1,31.4,0.49
+581,58145110,Macaroni or noodles with cheese,34,221.8,23.08,2.43,1.23,21.86,5.29
+581,58104710,"Quesadilla, just cheese, meatless",30,344.68,32.48,2.56,2.29,30.18,8.31
+581,58163405,"Spanish rice, from restaurant",29,184.99,31.16,1.3,1.21,29.95,1.01
+581,58145112,"Macaroni or noodles with cheese, made from packaged mix",28,177.63,22.17,3.42,0.99,21.18,3.49
+581,58145111,"Macaroni or noodles with cheese, from restaurant",27,151.0,18.8,3.09,1.1,17.7,2.15
+581,58101320,Taco or tostada with meat,26,247.13,19.23,2.27,2.64,16.59,5.19
+581,58106625,"Pizza with meat other than pepperoni, from restaurant or fast food, medium crust",23,279.96,30.62,3.32,2.3,28.32,5.03
+581,58146222,"Pasta with tomato-based sauce, home recipe",23,103.55,19.88,2.94,1.8,18.07,0.17
+581,58101323,"Taco or tostada with meat, from fast food",22,226.06,19.85,0.9,3.9,15.95,4.38
+581,58163410,"Spanish rice, fat added",22,114.13,19.65,1.55,1.15,18.5,0.51
+581,58100010,"Burrito, taco, or quesadilla with egg and breakfast meat",20,246.08,16.76,1.77,1.24,15.52,4.91
+584,58407030,"Soup, mostly noodles",59,66.96,9.17,0.3,0.44,8.73,1.24
+584,58403010,"Chicken or turkey noodle soup, canned or ready-to-serve",18,24.26,3.07,0.0,0.46,2.61,0.2
+584,58403040,"Chicken or turkey noodle soup, home recipe",11,61.35,4.93,0.93,0.43,4.49,0.43
+584,58407010,"Instant soup, noodle",7,25.25,4.17,0.13,0.21,3.97,0.13
+584,58407035,"Soup, mostly noodles, reduced sodium",6,53.24,10.79,0.13,0.41,10.38,0.0
+584,58408010,Wonton soup,6,32.0,5.25,0.34,0.2,5.05,0.06
+584,58404030,"Chicken or turkey rice soup, home recipe",5,61.66,5.66,0.84,0.34,5.32,0.38
+611,61119010,"Orange, raw",139,46.86,11.75,9.35,2.4,9.35,0.01
+611,61100600,"Clementine, raw",38,52.96,13.34,10.58,1.8,11.54,0.04
+611,61125010,"Tangerine, raw",23,53.14,13.34,10.58,1.81,11.53,0.04
+611,61101010,"Grapefruit, raw",19,42.01,10.66,6.89,1.6,9.06,0.02
+612,61210220,"Orange juice, 100%, canned, bottled or in a carton",136,49.0,11.54,8.31,0.3,11.24,0.01
+612,61210250,"Orange juice, 100%, with calcium added, canned, bottled or in a carton",100,47.02,11.27,8.31,0.3,10.97,0.01
+612,61204010,"Lemon juice, 100%, freshly squeezed",74,21.66,6.89,2.52,0.26,6.64,0.04
+612,61204000,"Lemon juice, 100%, NS as to form",69,21.48,6.91,2.53,0.16,6.75,0.04
+612,61207010,"Lime juice, 100%, freshly squeezed",17,25.8,8.42,1.69,0.38,8.04,0.01
+612,61210010,"Orange juice, 100%,  freshly squeezed",17,45.02,10.4,8.4,0.2,10.2,0.02
+612,61210000,"Orange juice, 100%, NFS",16,48.3,11.45,8.31,0.3,11.15,0.01
+612,61207000,"Lime juice, 100%, NS as to form",10,24.09,8.45,1.69,0.37,8.08,0.01
+612,61213800,"Fruit juice blend, citrus, 100% juice",10,50.97,12.2,10.57,0.2,12.0,0.01
+621,62125100,Raisins,38,299.57,79.32,65.18,4.56,74.76,0.09
+621,62109100,"Cranberries, dried",34,307.82,82.8,72.56,5.27,77.53,0.09
+621,62101050,"Fruit mixture, dried",11,298.05,78.62,66.33,4.8,73.82,0.1
+621,62110100,Date,11,282.66,75.04,63.35,7.98,67.06,0.03
+621,62107200,Banana chips,5,519.57,58.4,35.35,7.65,50.76,28.97
+631,63107010,"Banana, raw",406,88.89,22.84,12.23,2.61,20.23,0.11
+631,63101000,"Apple, raw",225,52.03,13.81,10.39,2.4,11.41,0.03
+631,63123000,"Grapes, raw",164,69.05,18.1,15.48,0.91,17.19,0.05
+631,63105010,"Avocado, raw",111,160.0,8.53,0.66,6.7,1.83,2.13
+631,63149010,"Watermelon, raw",75,30.0,7.55,6.2,0.4,7.15,0.02
+631,63109010,"Cantaloupe, raw",68,34.06,8.16,7.88,0.8,7.36,0.05
+631,63141010,"Pineapple, raw",65,50.07,13.12,9.85,1.42,11.7,0.01
+631,63129010,"Mango, raw",44,60.01,14.98,13.66,1.62,13.37,0.09
+631,63137010,"Pear, raw",38,57.15,15.23,9.75,3.11,12.12,0.02
+631,63115010,"Cherries, raw",31,63.05,16.01,12.82,2.11,13.9,0.04
+631,63135010,"Peach, raw",30,42.01,10.1,8.39,1.53,8.57,0.02
+631,63143010,"Plum, raw",21,46.4,11.42,9.92,1.44,9.98,0.02
+631,63126500,"Kiwi fruit, raw",16,58.19,14.0,8.99,3.02,10.98,0.03
+631,63127010,"Honeydew melon, raw",16,35.95,9.09,8.12,0.8,8.29,0.04
+631,63135140,"Peach, canned, in syrup",15,52.9,13.59,12.41,1.21,12.38,0.01
+632,63223020,"Strawberries, raw",128,32.04,7.68,4.89,2.0,5.68,0.02
+632,63203010,"Blueberries, raw",59,56.86,14.49,9.96,2.41,12.08,0.03
+632,63201010,"Blackberries, raw",15,43.07,9.61,4.88,5.33,4.28,0.01
+632,63219000,"Raspberries, raw",15,52.3,11.94,4.42,6.5,5.45,0.02
+632,63207110,Cranberry sauce,11,159.05,40.4,31.75,1.1,39.3,0.01
+632,63203600,"Blueberries, frozen",7,51.09,12.17,8.45,2.7,9.47,0.05
+632,63200100,"Berries, NFS",5,39.91,9.72,6.41,2.13,7.59,0.02
+633,63311110,"Fruit cocktail, canned, NFS",9,54.23,14.1,13.08,0.93,13.17,0.01
+633,63311000,"Fruit salad, fresh or raw,  excluding citrus fruits, no dressing",5,53.33,13.66,9.49,1.75,11.91,0.05
+634,63409010,"Guacamole, NFS",29,155.49,8.45,0.72,6.52,1.93,2.06
+634,63409015,Guacamole with tomatoes,29,144.84,8.09,0.87,6.1,1.99,1.9
+634,63409020,Chutney,7,246.3,60.6,42.68,0.95,59.64,0.01
+634,63420105,Frozen fruit juice bar,5,105.0,25.4,22.6,0.5,24.9,0.0
+641,64104010,"Apple juice, 100%",52,46.01,11.3,9.62,0.2,11.1,0.02
+641,64100200,"Cranberry juice blend, 100% juice",33,50.02,12.46,10.92,0.2,12.26,0.02
+641,64104030,"Apple juice, 100%, with calcium added",23,47.97,11.49,9.47,0.3,11.19,0.03
+641,64116020,"Grape juice, 100%",20,60.04,14.77,14.2,0.2,14.57,0.02
+641,64134015,"Fruit smoothie, with whole fruit, no dairy",14,53.15,13.11,8.2,1.65,11.46,0.04
+641,64124020,"Pineapple juice, 100%",13,52.99,12.87,9.98,0.2,12.67,0.01
+641,64100110,"Fruit juice blend, 100% juice",12,50.07,12.46,10.92,0.19,12.27,0.02
+641,64134020,"Fruit smoothie, with whole fruit, no dairy, added protein",8,74.82,12.62,7.6,1.76,10.86,0.09
+641,64126000,"Pomegranate juice, 100%",7,53.99,13.13,12.65,0.09,13.04,0.08
+641,64134025,"Fruit smoothie, with whole fruit, non-dairy",7,58.35,11.73,4.97,1.25,10.48,0.16
+641,64134200,"Fruit smoothie, bottled",7,50.06,11.66,10.05,0.6,11.06,0.06
+641,64116060,"Grape juice, 100%, with calcium added",6,61.99,14.77,14.2,0.2,14.57,0.02
+641,64100100,"Fruit juice, NFS",5,50.06,12.46,10.92,0.2,12.26,0.02
+641,64100220,"Cranberry juice blend, 100% juice, with calcium added",5,45.04,10.91,9.8,0.09,10.82,0.0
+641,64101010,Apple cider,5,46.08,11.3,9.62,0.21,11.09,0.02
+642,64204010,Mango nectar,9,50.97,13.12,12.45,0.3,12.82,0.01
+644,64401000,Vinegar,49,20.68,0.94,0.4,0.0,0.94,0.0
+710,71000100,"Potato, NFS",27,124.98,20.46,1.62,1.44,19.01,1.2
+711,71103010,"Potato, boiled, from fresh, peel not eaten, no added fat",14,92.6,21.46,1.69,1.49,19.97,0.03
+711,71101000,"Potato, baked, peel not eaten",13,92.65,21.45,1.69,1.5,19.95,0.03
+711,71104030,"Potato, roasted, NFS",6,124.94,20.45,1.61,1.42,19.03,1.2
+711,71103125,"Potato, boiled, from fresh,  peel eaten, no addded fat",5,92.63,21.07,1.18,2.19,18.88,0.03
+711,71104070,"Potato, roasted, from fresh, peel eaten, made with oil",5,130.19,20.07,1.12,2.08,17.99,0.68
+712,71200100,"Potato chips, plain",103,531.94,53.83,0.33,3.14,50.69,3.4
+712,71200200,"Potato chips, ruffled, plain",50,532.08,53.83,0.33,3.14,50.69,3.4
+712,71200110,"Potato chips, barbecue flavored",49,487.12,55.92,5.47,3.81,52.11,4.0
+712,71200140,"Potato chips, other flavored",28,486.87,55.92,5.47,3.84,52.08,4.0
+712,71202500,"Potato chips, lightly salted",27,558.55,53.43,0.34,4.18,49.25,5.48
+712,71200410,"Potato chips, baked, flavored",21,467.09,71.04,4.99,4.73,66.31,2.62
+712,71200400,"Potato chips, baked, plain",20,468.55,71.4,5.01,4.72,66.67,2.63
+712,71200310,"Potato chips, restructured, flavored",14,541.58,55.05,0.76,2.85,52.2,8.59
+712,71220000,Vegetable chips,13,495.23,59.2,6.9,7.74,51.45,1.82
+712,71200120,"Potato chips, sour cream and onion flavored",12,486.32,55.93,5.47,3.9,52.02,4.0
+712,71200230,"Potato chips, ruffled, cheese flavored",12,487.08,55.92,5.47,3.86,52.06,4.0
+712,71200300,"Potato chips, restructured, plain",12,543.55,55.21,0.76,2.91,52.3,8.62
+712,71200240,"Potato chips, ruffled, other flavored",11,486.88,55.92,5.47,3.83,52.09,4.0
+712,71201050,"Potato chips, reduced fat",10,482.27,67.13,0.22,5.96,61.17,4.12
+712,71200010,"Potato chips, NFS",7,532.56,53.83,0.33,3.07,50.76,3.4
+714,71401030,"Potato, french fries, fast food",244,311.86,41.44,0.3,3.8,37.63,2.34
+714,71401031,"Potato, french fries, restaurant",77,289.06,37.2,0.28,3.91,33.29,2.49
+714,71404010,"Potato, hash brown, from fast food",31,272.41,28.88,0.56,2.72,26.15,2.54
+714,71401000,"Potato, french fries, NS as to fresh or frozen",25,224.07,23.23,0.34,1.81,21.41,2.01
+714,71401020,"Potato, french fries, from frozen, baked",23,158.23,25.55,0.37,2.01,23.54,0.85
+714,71403020,"Potato, home fries, NFS",22,194.72,18.41,1.24,1.6,16.81,1.79
+714,71404030,"Potato, hash brown, from restaurant",19,272.08,28.88,0.56,2.71,26.17,2.54
+714,71405040,"Potato, hash brown, ready-to-heat",16,216.71,28.23,0.27,3.15,25.08,0.92
+714,71401010,"Potato, french fries, from fresh, fried",15,195.78,18.5,1.25,1.58,16.92,1.8
+714,71401032,"Potato, french fries, from frozen, fried",14,224.12,23.23,0.33,1.81,21.41,2.01
+714,71401039,"Potato, french fries, with cheese, fast food / restaurant",8,259.04,29.69,0.3,2.58,27.12,2.6
+714,71403500,"Potato, home fries, with vegetables",7,171.17,15.6,1.84,1.59,14.01,1.62
+714,71405010,"Potato, hash brown, from fresh",5,188.75,18.56,1.25,1.62,16.94,1.69
+715,71501010,"Potato, mashed, from fresh, made with milk",33,113.22,17.6,2.13,1.17,16.43,2.23
+715,71501006,"Potato, mashed, from fast food, with gravy",28,80.91,12.78,0.46,1.06,11.72,0.59
+715,71508001,"Potato, baked, peel eaten",23,92.6,21.05,1.17,2.18,18.87,0.03
+715,71501012,"Potato, mashed, from fresh, made with milk, with gravy",17,100.15,15.14,1.76,0.96,14.18,1.91
+715,71501016,"Potato, mashed, from restaurant",17,137.1,16.77,2.03,1.11,15.66,3.72
+715,71501017,"Potato, mashed, from restaurant, with gravy",17,119.29,14.48,1.68,0.91,13.56,3.1
+715,71501013,"Potato, mashed, from fresh, NFS",16,113.24,17.6,2.13,1.17,16.43,2.23
+715,71505010,"Potato tots, fast food / restaurant",14,235.62,24.31,0.27,2.25,22.06,3.63
+715,71501040,"Potato, mashed, from dry mix, made with milk",13,116.3,12.63,1.59,0.93,11.7,3.61
+715,71507005,"Potato, baked, peel not eaten, with butter",11,123.77,20.39,1.61,1.42,18.96,2.58
+715,71501007,"Potato, mashed, ready-to-heat",10,106.08,13.29,1.76,1.92,11.38,2.63
+715,71508005,"Potato, baked, peel eaten, with butter",10,123.72,20.01,1.12,2.09,17.92,2.59
+715,71501054,"Potato, mashed, from dry mix, made with milk, with gravy",8,102.68,11.16,1.33,0.77,10.39,3.01
+715,71501011,"Potato, mashed, from fresh, made with milk, with cheese",7,144.9,15.98,1.93,1.05,14.93,4.04
+715,71508020,"Potato, baked, peel eaten, with cheese",7,152.02,17.36,1.25,1.75,15.61,4.51
+716,71600950,"Potato salad with egg, from restaurant",17,175.15,15.36,1.8,1.11,14.25,1.97
+716,71601010,"Potato salad with egg, made with mayonnaise",17,157.08,16.18,4.95,1.31,14.88,1.44
+716,71602950,"Potato salad, from restaurant",14,177.84,17.32,1.9,1.27,16.05,1.79
+716,71603010,"Potato salad, made with mayonnaise",9,168.29,15.8,1.29,1.5,14.29,1.75
+716,71601020,"Potato salad with egg, made with mayonnaise-type salad dressing",5,112.1,15.9,2.56,1.31,14.59,0.87
+717,71704000,Stewed potatoes with tomatoes,8,93.76,15.4,2.31,1.44,13.96,0.44
+718,71801100,Potato and cheese soup,5,74.07,8.54,1.54,0.95,7.59,1.32
+719,71900200,"Plantain, cooked with oil",18,143.9,30.87,16.95,1.65,29.22,0.4
+719,71900100,"Plantain, cooked, no added fat",5,121.68,31.8,17.46,1.7,30.1,0.0
+719,71905100,"Plantain, cooked with butter or margarine",5,137.27,30.88,16.95,1.65,29.24,1.05
+721,72125100,"Spinach, raw",67,23.2,3.63,0.42,2.21,1.42,0.06
+721,72116000,"Romaine lettuce, raw",61,15.19,2.87,0.78,1.3,1.57,0.02
+721,72119190,"Kale, raw",19,35.2,4.42,0.8,4.1,0.32,0.18
+721,72125218,"Spinach, fresh, cooked with butter or margarine",11,48.87,4.15,0.48,2.5,1.65,1.3
+721,72125221,"Spinach, fresh, cooked, fat added, NS as to fat type",10,52.62,4.14,0.48,2.5,1.64,0.92
+721,72107228,"Collards, fresh, cooked with butter or margarine",8,54.06,5.65,0.48,4.16,1.49,1.18
+721,72125220,"Spinach, NS as to form, cooked",8,52.5,4.14,0.48,2.51,1.63,0.92
+721,72119221,"Kale, fresh, cooked, fat added",7,60.71,4.61,0.83,4.29,0.31,0.96
+721,72125217,"Spinach, fresh, cooked with oil",7,56.44,4.13,0.48,2.52,1.62,0.54
+721,72107211,"Collards, fresh, cooked, no added fat",6,34.23,5.81,0.49,4.3,1.51,0.06
+721,72107213,"Collards, canned, cooked, no added fat",5,18.88,2.79,0.42,1.27,1.52,0.07
+721,72128221,"Turnip greens, fresh, cooked, fat added",5,42.14,4.23,0.52,3.38,0.85,0.77
+722,72201100,"Broccoli, raw",37,34.0,6.64,1.7,2.62,4.02,0.11
+722,72201190,"Broccoli, cooked, from restaurant",37,71.66,6.56,1.68,2.58,3.99,1.34
+722,72201221,"Broccoli, fresh, cooked, fat added, NS as to fat type",28,57.59,6.7,1.72,2.61,4.09,0.87
+722,72201211,"Broccoli, fresh, cooked, no added fat",27,35.38,6.9,1.77,2.7,4.19,0.12
+722,72201220,"Broccoli, NS as to form, cooked",12,57.72,6.7,1.71,2.62,4.08,0.87
+722,72201212,"Broccoli, frozen, cooked, no added fat",11,28.03,5.33,1.47,3.0,2.33,0.02
+722,72201223,"Broccoli, fresh, cooked with oil",10,61.24,6.7,1.71,2.63,4.07,0.53
+722,72201224,"Broccoli, fresh, cooked with butter or margarine",9,54.28,6.71,1.72,2.61,4.1,1.2
+722,72201222,"Broccoli, frozen, cooked, fat added, NS as to fat type",8,49.58,5.19,1.42,2.91,2.28,0.74
+723,72302100,"Broccoli cheese soup, prepared with milk, home recipe, canned, or ready-to-serve",10,68.8,6.29,3.51,0.9,5.39,1.38
+723,72308000,"Dark-green leafy vegetable soup with meat, Asian style",8,77.93,5.56,0.85,1.04,4.52,0.9
+731,73101010,"Carrots, raw",155,40.93,9.58,4.74,2.79,6.79,0.03
+731,73102190,"Carrots, cooked, from restaurant",20,78.61,9.47,4.68,2.75,6.72,1.26
+731,73102221,"Carrots, fresh, cooked, fat added, NS as to fat type",17,64.76,9.67,4.78,2.83,6.84,0.78
+731,73102211,"Carrots, fresh, cooked, no added fat",6,43.01,9.95,4.93,2.92,7.03,0.03
+731,73102220,"Carrots, NS as to form, cooked",6,64.62,9.67,4.78,2.84,6.83,0.78
+734,73403010,"Sweet potato, baked, peel not eaten, no added fat",12,89.63,20.63,6.45,3.28,17.35,0.05
+734,73409000,"Sweet potato, casserole or mashed",9,93.66,16.97,7.61,1.93,15.03,1.39
+734,73401000,"Sweet potato, NFS",7,108.85,16.82,5.45,2.38,14.44,1.21
+734,73402010,"Sweet potato, baked, peel eaten, no added fat",7,94.76,21.83,6.21,3.5,18.34,0.05
+734,73406000,"Sweet potato, candied",7,177.67,37.46,28.97,1.78,35.68,0.91
+734,73410400,"Sweet potato fries, fast food / restaurant",6,304.92,31.63,11.47,5.05,26.59,6.26
+734,73403023,"Sweet potato, baked, peel not eaten, made with margarine",5,112.74,19.69,6.15,3.15,16.55,0.66
+741,74101000,"Tomatoes, raw",322,17.95,3.89,2.63,1.2,2.69,0.03
+742,74201001,"Tomatoes, fresh, cooked",14,49.84,4.72,3.18,1.46,3.26,0.94
+742,74201000,"Tomatoes, NS as to form, cooked",8,49.89,4.71,3.19,1.43,3.28,0.94
+743,74303000,"Tomato and vegetable juice, 100%",12,22.03,3.87,2.84,0.5,3.37,0.09
+743,74301100,"Tomato juice, 100%",7,16.76,3.53,2.58,0.39,3.14,0.02
+746,74602010,"Tomato soup, prepared with water, or ready-to-serve",11,33.47,7.72,4.17,0.56,7.17,0.06
+746,74601010,"Tomato soup, cream of, prepared with milk",5,58.24,10.05,6.56,0.54,9.5,0.64
+751,75113000,"Lettuce, raw",340,14.52,2.92,1.37,1.25,1.67,0.02
+751,75111000,"Cucumber, raw",168,15.11,3.63,1.67,0.51,3.12,0.04
+751,75117020,"Onions, raw",155,40.03,9.34,4.24,1.73,7.61,0.04
+751,75114000,"Mixed salad greens, raw",83,16.07,2.93,0.91,1.4,1.53,0.03
+751,75140990,"Cabbage salad or coleslaw, from fast food / restaurant",43,159.1,12.35,9.54,1.9,10.45,1.91
+751,75109000,"Celery, raw",41,13.94,2.97,1.34,1.6,1.37,0.04
+751,75103000,"Cabbage, green, raw",40,25.03,5.8,3.2,2.51,3.29,0.03
+751,75122000,"Pepper, raw, NFS",38,22.19,5.13,3.03,1.86,3.26,0.06
+751,75109550,"Cilantro, raw",27,19.46,3.72,0.9,2.12,1.59,0.01
+751,75121000,"Pepper, hot chili, raw",23,34.38,7.66,4.71,2.11,5.55,0.07
+751,75122100,"Pepper, sweet, green, raw",21,20.21,4.64,2.4,1.7,2.94,0.06
+751,75122200,"Pepper, sweet, red, raw",21,26.0,6.03,4.2,2.11,3.92,0.06
+751,75125000,"Radish, raw",18,16.78,3.4,1.87,1.68,1.72,0.03
+751,75107000,"Cauliflower, raw",16,25.22,4.97,1.91,2.01,2.96,0.13
+751,75105000,"Cabbage, red, raw",15,30.72,7.38,3.84,2.01,5.36,0.02
+752,75221021,"Onions, cooked, fat added",56,72.12,10.64,4.83,1.95,8.69,0.9
+752,75205005,"Green beans, cooked, from restaurant",41,68.78,6.89,3.22,2.67,4.22,1.28
+752,75216120,"Corn, NS as to form, cooked",24,87.66,13.93,4.31,1.93,12.0,0.96
+752,75215990,"Corn, cooked, from restaurant",22,118.17,17.74,5.94,1.88,15.86,1.48
+752,75205023,"Green beans, canned, cooked, no added fat",21,20.96,4.11,1.29,1.9,2.21,0.09
+752,75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",20,46.88,3.99,3.06,1.14,2.84,0.95
+752,75226020,"Peppers, green, cooked",19,43.64,4.69,2.42,1.72,2.97,0.81
+752,75217020,"Eggplant, cooked, fat added",18,50.21,6.13,3.68,3.13,2.99,0.81
+752,75209021,"Brussels sprouts, fresh, cooked, fat added",17,66.7,9.03,2.22,3.83,5.2,0.81
+752,75226111,"Hot peppers, cooked",16,58.4,7.72,4.75,2.18,5.54,0.82
+752,75202021,"Asparagus, fresh, cooked, fat added, NS as to fat type",15,45.06,4.04,1.96,2.17,1.87,0.82
+752,75205021,"Green beans, fresh, cooked, no added fat",15,32.13,7.24,3.39,2.81,4.43,0.05
+752,75211020,"Cabbage, green, cooked, no added fat",15,25.94,6.03,3.32,2.59,3.43,0.04
+752,75211032,"Cabbage, green, cooked with butter or margarine",15,45.35,5.86,3.23,2.53,3.34,1.12
+752,75214021,"Cauliflower, fresh, cooked, fat added, NS as to fat type",14,48.58,5.02,1.93,2.01,3.01,0.88
+753,75307000,"Peppers and onions, cooked, fat added",18,56.82,7.99,3.98,1.93,6.06,0.78
+753,75340020,"Asian stir fry vegetables, cooked, fat added",15,67.31,9.55,3.6,2.85,6.7,0.79
+753,75330090,"Broccoli, cauliflower and carrots, cooked, fat added",14,49.8,5.43,2.13,2.9,2.53,0.78
+753,75311020,"Classic mixed vegetables, NS as to form, cooked",9,85.43,12.68,3.02,4.27,8.41,0.75
+753,75330060,"Broccoli and cauliflower, cooked, fat added",9,45.18,4.41,1.22,2.76,1.65,0.75
+753,75316050,Ratatouille,7,65.48,5.74,3.39,1.93,3.81,0.67
+753,75317010,"Vegetables, stew type, cooked, fat added",7,94.81,14.88,3.04,1.94,12.94,1.01
+753,75330080,"Broccoli, cauliflower and carrots, cooked, no added fat",6,27.99,5.6,2.19,2.98,2.62,0.06
+753,75311012,"Classic mixed vegetables, frozen, cooked, no added fat",5,64.59,13.05,3.11,4.38,8.67,0.03
+753,75311022,"Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type",5,85.35,12.68,3.02,4.27,8.41,0.75
+754,75415022,Fried onion rings,32,349.67,39.94,4.97,2.56,37.38,3.17
+754,75440600,Vegetable curry,20,83.77,8.72,3.23,1.83,6.89,1.26
+754,75460900,"Chow mein or chop suey, meatless, with noodles",11,116.79,15.72,2.18,2.15,13.57,1.4
+754,75414500,Fried okra,7,216.54,22.15,1.42,1.57,20.58,1.82
+756,75652010,"Vegetable beef soup, home recipe",20,55.2,3.87,1.02,0.78,3.09,0.54
+756,75649010,"Vegetable soup, canned, prepared with water or ready-to-serve",14,38.95,7.9,1.56,1.1,6.8,0.04
+756,75649110,"Vegetable soup, home recipe",10,37.48,6.19,1.49,1.22,4.97,0.17
+781,78101125,"Fruit and vegetable smoothie, no dairy",18,59.63,14.5,8.53,1.48,13.03,0.06
+781,78101000,"Vegetable and fruit juice, 100% juice, with high vitamin C",9,46.05,11.15,10.37,0.0,11.15,0.0
+781,78101100,"Fruit and vegetable smoothie, with dairy",9,60.08,13.22,7.86,1.41,11.81,0.28
+781,78101110,"Fruit and vegetable smoothie, added protein",5,82.62,12.68,7.25,1.55,11.14,0.32
+781,78101130,Vegetable smoothie,5,87.5,6.06,2.58,2.89,3.16,1.35
+811,81101000,"Butter, stick",167,715.54,0.06,0.06,0.0,0.06,51.37
+811,81101010,"Butter, tub",68,730.05,0.0,0.06,0.0,0.0,45.39
+811,81102020,"Margarine, tub",59,533.77,0.86,0.0,0.0,0.86,12.09
+811,81102000,"Margarine, NFS",40,578.85,0.85,0.0,0.0,0.85,12.86
+811,81102010,"Margarine, stick",40,714.51,0.71,0.0,0.0,0.71,15.19
+811,81100500,"Butter, NFS",37,715.86,0.06,0.06,0.0,0.06,51.37
+811,81103080,"Margarine-oil blend, tub",18,532.86,0.86,0.0,0.0,0.86,12.08
+811,81104510,"Butter-oil blend, tub",18,729.67,0.0,0.06,0.0,0.0,45.39
+811,81101520,"Butter, light",12,500.13,0.0,0.0,0.0,0.0,34.32
+811,81103090,"Butter replacement, liquid",12,533.15,0.86,0.0,0.0,0.86,12.08
+811,81104010,"Margarine-oil blend, tub, light",7,343.79,1.22,0.0,0.0,1.22,8.65
+811,81104490,"Butter-oil blend, NFS",5,730.16,0.0,0.06,0.0,0.0,45.39
+812,81204000,"Ghee, clarified butter",8,876.46,0.0,0.0,0.0,0.0,61.92
+813,81302050,Tartar sauce,32,212.31,13.29,4.27,0.47,12.82,3.33
+813,81302070,Pesto sauce,12,574.23,5.77,0.7,0.99,4.78,9.58
+813,81301000,Garlic sauce,9,660.42,3.37,0.16,0.12,3.25,46.24
+813,81308100,Fry sauce,9,535.03,7.28,5.74,0.0,7.28,8.78
+813,81302040,Sandwich spread,7,388.94,22.4,15.19,0.43,21.97,5.1
+813,81312100,Curry sauce,5,92.97,4.96,3.41,1.37,3.59,2.48
+821,82104000,Olive oil,34,885.1,0.0,0.0,0.0,0.0,13.81
+821,82101500,Coconut oil,8,833.56,0.85,0.0,0.0,0.85,82.49
+821,82101000,"Vegetable oil, NFS",6,885.4,0.0,0.0,0.0,0.0,13.68
+831,83107000,"Mayonnaise, regular",356,678.97,0.57,0.57,0.0,0.57,11.7
+831,83112500,Creamy dressing,144,429.92,5.91,4.69,0.0,5.91,6.96
+831,83106000,"Italian dressing, made with vinegar and oil",139,240.5,12.12,10.77,0.0,12.12,2.95
+831,83110000,Mayonnaise-type salad dressing,32,251.91,14.79,10.01,0.0,14.79,3.39
+831,83114000,Thousand Island dressing,27,378.72,14.64,15.18,0.81,13.82,5.09
+831,83100100,"Salad dressing, NFS, for salads",24,429.49,5.9,4.68,0.0,5.9,6.96
+831,83102000,Caesar dressing,24,542.12,3.3,2.81,0.47,2.84,8.79
+831,83101000,Blue or roquefort cheese dressing,20,483.48,4.77,3.48,0.34,4.42,8.27
+831,83104000,French or Catalina dressing,14,419.1,18.79,17.43,2.41,16.38,6.09
+831,83112990,Sesame dressing,14,442.7,8.6,8.32,0.94,7.66,6.2
+831,83100200,"Salad dressing, NFS, for sandwiches",12,593.17,3.43,2.43,0.0,3.43,10.04
+831,83105500,Honey mustard dressing,9,464.14,23.33,15.84,0.45,22.88,5.0
+831,83112950,Poppy seed dressing,5,399.21,23.73,23.39,0.26,23.47,6.06
+832,83210100,"Creamy dressing, light",17,160.29,7.0,5.66,0.0,7.0,2.12
+832,83205450,"Italian dressing, light",11,102.18,9.99,9.16,0.0,9.99,0.83
+832,83202020,"French or Catalina dressing, light",7,221.97,31.23,16.85,1.54,29.69,0.84
+833,83300300,"Creamy dressing, fat free",7,107.18,20.0,5.35,0.0,20.0,0.49
+913,91302010,Honey,125,304.0,82.39,82.13,0.11,82.29,0.0
+913,91300100,Pancake syrup,80,265.06,69.6,42.0,0.0,69.6,0.02
+913,91361010,Sweet and sour sauce,24,154.39,38.23,18.75,0.03,38.21,0.0
+913,91301080,Chocolate syrup,23,269.06,67.21,60.0,0.0,67.21,0.0
+913,91361050,Duck sauce,11,244.18,60.67,30.55,0.59,60.09,0.05
+913,91301100,Simple syrup,10,175.73,45.58,45.68,0.0,45.58,0.0
+913,91304010,"Topping, butterscotch or caramel",7,215.62,57.01,57.0,0.0,57.01,0.0
+913,91304090,"Topping, chocolate flavored hazelnut spread",6,539.4,62.36,54.04,5.42,56.93,28.42
+913,91305020,"Icing, white",6,417.47,67.88,63.12,0.0,67.88,2.97
+913,91300010,"Syrup, NFS",5,265.0,69.6,42.0,0.0,69.6,0.02
+914,91401000,"Jelly, all flavors",53,265.48,69.96,51.22,0.98,68.98,0.01
+914,91402000,"Jam, preserve, all flavors",20,278.31,68.86,48.5,1.05,67.81,0.01
+914,91406500,"Jam, preserve, marmalade, sweetened with fruit juice concentrates, all flavors",16,211.44,52.93,42.0,0.93,52.0,0.0
+915,91501010,Gelatin dessert,11,60.0,14.19,13.49,0.0,14.19,0.0
+915,91501020,Gelatin dessert with fruit,6,55.74,13.34,12.59,0.15,13.18,0.0
+916,91611000,Popsicle,18,79.79,19.24,13.66,0.0,19.24,0.01
+917,91745020,Hard candy,74,394.65,98.0,62.91,0.0,98.0,0.0
+917,91705010,"Milk chocolate candy, plain",67,535.09,59.4,51.5,3.4,56.0,18.51
+917,91745010,Gumdrops,46,395.81,98.9,58.97,0.09,98.81,0.0
+917,91715100,SNICKERS Bar,43,490.91,61.51,50.47,2.29,59.23,9.07
+917,91707000,Fondant,36,371.38,93.17,88.92,0.0,93.17,0.0
+917,91734100,Reese's Peanut Butter Cup,32,515.2,55.36,47.17,3.58,51.78,10.73
+917,91705300,"Chocolate, sweet or dark",24,528.79,60.19,48.81,6.33,53.85,19.54
+917,91731010,M&M's Peanut Chocolate Candies,23,515.06,60.48,50.75,3.68,56.8,10.17
+917,91708030,Fruit leather and fruit snacks candy,19,365.29,84.31,53.38,0.0,84.31,0.66
+917,91750000,Taffy,18,403.03,82.15,55.59,0.0,82.15,7.21
+917,91705060,"Milk chocolate candy, with almonds",16,526.15,53.4,43.9,6.16,47.23,17.7
+917,91746100,M&M's Milk Chocolate Candies,15,492.04,71.19,63.68,2.81,68.38,13.08
+917,91707010,"Fondant, chocolate covered",12,366.13,80.4,71.42,2.1,78.29,5.46
+917,91726130,MILKY WAY Bar,12,456.68,71.17,59.69,1.03,70.14,12.02
+917,91705030,Kit Kat,11,518.57,64.59,48.68,0.99,63.6,17.95
+918,91801000,"Chewing gum, regular",39,355.27,96.74,66.05,2.48,94.25,0.05
+918,91802000,"Chewing gum, sugar free",23,258.97,94.91,0.0,0.9,94.01,0.05
+923,92308000,"Tea, iced, brewed, black, pre-sweetened with sugar",146,30.54,7.94,7.68,0.0,7.94,0.0
+923,92302000,"Tea, hot, leaf, black",130,1.02,0.3,0.0,0.0,0.3,0.0
+923,92309000,"Tea, iced, bottled, black",118,44.99,10.8,9.49,0.0,10.8,0.0
+923,92303010,"Tea, hot, leaf, green",89,1.01,0.0,0.0,0.0,0.0,0.0
+923,92306000,"Tea, hot, herbal",83,1.01,0.2,0.0,0.0,0.2,0.0
+923,92308020,"Tea, iced, brewed, black, unsweetened",74,1.01,0.3,0.0,0.0,0.3,0.0
+923,92309500,"Tea, iced, bottled, green",50,26.97,6.2,5.32,0.0,6.2,0.0
+923,92306800,"Tea, hot, chai, with milk",33,49.7,8.97,8.73,0.08,8.88,0.56
+923,92303100,"Tea, hot, leaf, green, decaffeinated",26,0.0,0.0,0.0,0.0,0.0,0.0
+923,92308520,"Tea, iced, brewed, green, unsweetened",22,1.0,0.0,0.0,0.0,0.0,0.0
+923,92309510,"Tea, iced, bottled, green, diet",16,4.01,0.93,0.93,0.0,0.93,0.0
+923,92305040,"Tea, iced, instant, black, pre-sweetened with sugar",13,29.78,7.31,7.07,0.05,7.26,0.01
+923,92306700,"Tea, hot, chamomile",13,0.98,0.2,0.0,0.0,0.2,0.0
+923,92307500,Iced Tea / Lemonade juice drink,13,33.17,9.15,7.2,0.31,8.84,0.01
+923,92305010,"Tea, iced, instant, black, unsweetened",12,0.97,0.23,0.01,0.01,0.22,0.0
+924,92410310,"Soft drink, cola",360,41.97,10.36,9.94,0.0,10.36,0.0
+924,92410510,"Soft drink, fruit flavored, caffeine free",211,40.02,10.14,8.98,0.0,10.14,0.0
+924,92410360,"Soft drink, pepper type",115,41.97,10.36,9.94,0.0,10.36,0.0
+924,92410550,"Soft drink, fruit flavored, caffeine containing",86,49.0,12.83,12.9,0.0,12.83,0.0
+924,92410320,"Soft drink, cola, diet",62,1.99,0.29,0.0,0.0,0.29,0.0
+924,92410210,"Carbonated water, unsweetened",57,0.0,0.0,0.0,0.0,0.0,0.0
+924,92410610,"Soft drink, ginger ale",46,33.96,8.76,8.9,0.0,8.76,0.0
+924,92410710,"Soft drink, root beer",37,41.01,10.6,10.6,0.0,10.6,0.0
+924,92410340,"Soft drink, cola, decaffeinated",32,41.01,10.58,10.58,0.0,10.58,0.0
+924,92410350,"Soft drink, cola, decaffeinated, diet",22,1.03,0.12,0.0,0.0,0.12,0.0
+924,92411510,"Soft drink, cola, fruit or vanilla flavored",15,41.94,10.36,9.94,0.0,10.36,0.0
+924,92410520,"Soft drink, fruit flavored, diet, caffeine free",14,0.0,0.0,0.0,0.0,0.0,0.0
+924,92410370,"Soft drink, pepper type, diet",7,1.98,0.29,0.0,0.0,0.29,0.0
+924,92410390,"Soft drink, pepper type, decaffeinated",6,41.01,10.58,10.58,0.0,10.58,0.0
+924,92410110,"Carbonated water, sweetened",5,33.99,8.8,8.8,0.0,8.8,0.0
+925,92530610,"Fruit juice drink, with high vitamin C",92,46.0,11.35,10.69,0.1,11.25,0.02
+925,92510955,"Lemonade, fruit juice drink",60,46.0,12.08,11.67,0.0,12.08,0.0
+925,92510610,Fruit juice drink,48,10.03,2.5,2.5,0.0,2.5,0.0
+925,92510960,"Lemonade, fruit flavored drink",48,25.42,6.55,6.5,0.0,6.55,0.01
+925,92541010,"Fruit flavored drink, powdered, reconstituted",44,25.44,6.55,6.5,0.0,6.55,0.01
+925,92530510,"Cranberry juice drink, with high vitamin C",19,54.04,13.52,11.87,0.0,13.52,0.01
+925,92513000,Slush frozen drink,17,28.31,7.68,7.68,0.0,7.68,0.0
+925,92531030,Fruit juice drink (Sunny D),16,54.02,13.16,12.11,0.09,13.07,0.0
+925,92552010,"Fruit flavored drink, powdered, reconstituted, diet",16,1.81,0.73,0.0,0.0,0.73,0.0
+925,92530410,"Fruit flavored drink, with high vitamin C",12,26.98,6.67,5.0,0.0,6.67,0.0
+925,92530950,"Vegetable and fruit juice drink, with high vitamin C",8,28.97,7.47,2.1,0.0,7.47,0.0
+925,92552030,Fruit juice drink (Capri Sun),8,39.25,10.0,9.0,0.0,10.0,0.01
+925,92582110,"Fruit juice drink, added calcium (Sunny D)",7,52.94,13.2,8.02,0.1,13.1,0.0
+925,92511015,Fruit flavored drink,6,63.99,16.03,15.85,0.0,16.03,0.0
+925,92550350,"Orange juice beverage, 40-50% juice, light",6,20.92,5.42,4.17,0.0,5.42,0.0
+926,92610020,"Horchata beverage, made with water",11,87.01,20.45,8.07,0.53,19.93,0.03
+928,92803000,Nonalcoholic malt beverage,5,36.98,8.05,8.05,0.0,8.05,0.02
+931,93101000,Beer,176,43.01,3.55,0.0,0.0,3.55,0.0
+931,93102000,"Beer, light",73,28.99,1.64,0.09,0.0,1.64,0.0
+931,93102300,"Beer, higher alcohol",21,58.01,0.27,0.0,0.0,0.27,0.0
+931,93106000,"Alcoholic malt beverage, sweetened",8,68.0,10.07,9.77,0.0,10.07,0.0
+931,93106500,Hard cider,6,56.05,5.92,5.92,0.0,5.92,0.0
+932,93201000,Cordial or liqueur,5,370.97,41.6,41.6,0.0,41.6,0.01
+933,93301100,Margarita,13,122.21,16.06,16.06,0.0,16.06,0.01
+933,93301190,Rum and cola,8,88.78,7.8,7.48,0.0,7.8,0.0
+933,93301182,Whiskey and cola,7,88.72,7.8,7.48,0.0,7.8,0.0
+933,93301510,Frozen margarita,6,122.18,16.06,16.06,0.0,16.06,0.01
+933,93301030,Bloody Mary,5,69.05,3.24,2.27,0.38,2.86,0.02
+934,93401010,"Wine, table, red",86,85.1,2.61,0.62,0.0,2.61,0.0
+934,93401020,"Wine, table, white",67,81.99,2.6,0.96,0.0,2.6,0.0
+934,93401030,"Wine, table, rose",8,82.98,3.8,3.8,0.0,3.8,0.0
+934,93404000,Wine cooler,8,67.99,10.07,9.77,0.0,10.07,0.0
+934,93402000,"Wine, dessert, sweet",5,160.0,13.69,7.78,0.0,13.69,0.0
+935,93502000,Whiskey,33,231.01,0.0,0.0,0.0,0.0,0.0
+935,93505000,Vodka,19,230.99,0.0,0.0,0.0,0.0,0.0
+935,93501000,Brandy,13,230.94,0.0,0.0,0.0,0.0,0.0
+935,93505100,Tequila,10,231.13,0.0,0.0,0.0,0.0,0.0
+935,93504000,Rum,6,231.03,0.0,0.0,0.0,0.0,0.0
+951,95103000,"Nutritional drink or shake, ready-to-drink (Ensure)",10,105.08,16.88,9.7,0.0,16.88,0.42
+951,95120020,"Nutritional drink or shake, high protein, light, ready-to-drink, NFS",7,138.02,17.29,8.46,1.2,16.09,0.42
+951,95120010,"Nutritional drink or shake, high protein, ready-to-drink, NFS",6,61.01,0.85,0.6,0.39,0.46,0.51
+952,95230030,"Nutritional powder mix, protein, NFS",18,352.18,6.26,0.0,3.13,3.12,0.78
+952,95230000,"Nutritional powder mix, whey based, NFS",13,351.82,6.25,0.0,3.11,3.14,0.78
+952,95220010,"Nutritional powder mix, high protein, NFS",10,391.43,20.38,3.57,0.0,20.38,0.0
+952,95230010,"Nutritional powder mix, protein, soy based, NFS",7,388.22,28.89,22.22,6.68,22.21,1.11
+953,95320200,Sports drink (Gatorade G),90,26.0,6.43,5.24,0.0,6.43,0.0
+953,95320500,Sports drink (Powerade),22,32.0,7.84,6.11,0.0,7.84,0.01
+953,95310400,Energy drink (Monster),19,46.98,11.28,10.93,0.0,11.28,0.0
+953,95310600,Energy drink (Red Bull),12,43.02,10.23,10.22,0.0,10.23,0.0
+953,95313200,"Energy drink, sugar free",8,4.51,0.7,0.0,0.0,0.7,0.0
+953,95322200,"Sports drink, low calorie (Gatorade G2)",5,8.01,1.94,1.3,0.0,1.94,0.0
